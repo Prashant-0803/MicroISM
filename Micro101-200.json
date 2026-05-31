@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "An example of competitive inhibition of an enzyme is the inhibition of",
+    "options": [
+      "Succinic dehydrogenase by malonic acid",
+      "Cytochrome oxidase by cyanide",
+      "Hexokinase by glucose-6-phosphate",
+      "Carbonic anhydrase by carbon dioxide",
+      "All of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Isolated pure cultures of gram-positive cocci are catalase- and coagulase-positive. What bacteria have these properties?",
+    "options": [
+      "S. saprophyticus",
+      "St. pneumoniae",
+      "S. epidermidis",
+      "Streptococcus",
+      "S. aureus"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Formation of red colonies on MacConkey agar indicates abilities of this microorganisms",
+    "options": [
+      "ferment glucose",
+      "ferment lactose",
+      "form indole",
+      "form hydrogen sulfide",
+      "Anaerobic respiration"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Determine the action of hydrolase enzymes:",
+    "options": [
+      "Catalyzes redox reactions",
+      "Eliminates chemical groups non-hydrolytically",
+      "Causes the breakdown of proteins, carbohydrates, lipids by addition of a water molecule",
+      "Promotes biosynthesis reactions",
+      "Carries out the transfer of individual atoms from molecule to molecule"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Oxidase positive bacteria is:",
+    "options": [
+      "Pseudomonas",
+      "Klebsiella",
+      "Staphylococcus",
+      "E.coli",
+      "Non of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Many enzymes consists of a protein combined with low molecular weight organic molecule called as",
+    "options": [
+      "apoenzyme",
+      "co-enzyme",
+      "holoenzyme",
+      "co-factors",
+      "Non of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Organic molecules that increase the rate of metabolic reactions with themselves changing are known as",
+    "options": [
+      "coenzymes",
+      "enzymes",
+      "substrates",
+      "reactants",
+      "All of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Main function of an enzyme is to",
+    "options": [
+      "increase the activation energy",
+      "decrease the activation energy",
+      "maintain constant activation energy",
+      "none of these",
+      "All of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The function of enzymes is to",
+    "options": [
+      "catalyze a reaction faster than the spontaneous rate",
+      "lower the energy required for the reaction to occur",
+      "cause a specific change in a substrate",
+      "none of these",
+      "All of these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Enzymes can",
+    "options": [
+      "not pass through semipermeable membrane",
+      "pass through semipermeable membrane",
+      "dissolve semipermeable membrane",
+      "",
+      "All of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The differentiate lactose and non-lactose fermentors, the medium used is",
+    "options": [
+      "Wilson & lair",
+      "Blood Agar",
+      "Tetra thionate broth",
+      "Mac-Conkey's Agar",
+      "Chocolate agar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Differential-diagnostic culture media are intended for",
+    "options": [
+      "allocation of a certain type of microbes;",
+      "isolation and identification of different types of microorganisms;",
+      "discharge of obligate anaerobes;",
+      "discharge of obligate parasites;",
+      "Increased turbidity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Some media contains specific ingredients or chemicals that allow the observer to visually distinguish which species possess and which species lack a specific biochemical process. Culture mediums that allow the identification and differentiation of microorganisms according to biochemical properties is:",
+    "options": [
+      "differential diagnostic",
+      "accumulation medium",
+      "elective",
+      "special",
+      "antrobic medium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The formation of pink colonies on MacConkey agar indicates abilities of this microorganism:",
+    "options": [
+      "Glucose fermemtation",
+      "Lactose fermentation",
+      "Hydrogen sulfite fermentation",
+      "indole fermentation",
+      "All of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The Reactive Oxygen Species(ROS) produced by some bacteria are degraded by which of the following enzymes?",
+    "options": [
+      "Peroxidase",
+      "Lyase",
+      "Catalase",
+      "Superoxide dismutase, Catalase and Peroxidase",
+      "Coagulase"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "When cultured on MacConkey agar, many pink colonies were obtained. What type of bacteria form such colonies on this medium?",
+    "options": [
+      "non Lactose-fermenters",
+      "Late Lactose-fermenters",
+      "Aerobes",
+      "Anaerobes",
+      "Lactose-fermenters"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "When a pure culture of bacteria grows on a short variegated row, there is a change in the color of the medium of all test tubes with the exception of the medium with sucrose and gas bubbles in the floats. What bacteria produce such changes in this environment?",
+    "options": [
+      "Shigellae",
+      "Vibrio cholerae",
+      "Salmonella",
+      "Staphylococcus",
+      "E. coli"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "The main components included in differential diagnostic medium",
+    "options": [
+      "indicator, selective factor for a certain type of bacteria, meat-extract agar",
+      "indicator, chemical substrate in relation to which microorganisms differ from each other, meat peptone agar indicator, selective factor for a certain type of bacteria, meat-extract agar",
+      "indicator, serum, meat-extract agar",
+      "indicator, antibiotics, chemical substrate in relation to which microorganisms differ from each other",
+      "chemical substrate in relation to which microorganisms differ from each other"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "EMB agar is a medium used in the identification and isolation of pathogenic bacteria. It contains digested meat proteins as a source of organic nutrients. Two indicator dyes, eosin and methylene blue, inhibit the growth of gram-positive bacteria and distinguish between lactose fermenting and nonlactose fermenting organisms. Lactose fermenters form metallic green or deep purple colonies, whereas the nonlactose fermenters form completely colorless colonies. EMB agar is an example of which of the following?",
+    "options": [
+      "a selective medium only",
+      "a differential medium only",
+      "a selective medium and a chemically defined medium",
+      "a selective medium, a differential medium, and a complex medium",
+      "a complex medium only"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Indole test positivity is indicated by presence of:",
+    "options": [
+      "A red ring",
+      "Colour change to yellow",
+      "Colour change to blue",
+      "Increased turbidity",
+      "All of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is primary cell line?",
+    "options": [
+      "Chick embryo fibroblast",
+      "HeLa cells",
+      "Vero cells",
+      "WI-38",
+      "MDCK"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Robert Koch's assistant had advised him to use agar instead of gelatin because:",
+    "options": [
+      "Agar is more nutritious",
+      "Gelatin melts at 250C",
+      "Gelatin is not easily available",
+      "Agar is cheaper",
+      "Gelatin is cheap"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Agar conc. In nutrient agar is:",
+    "options": [
+      "0.02",
+      "0.04",
+      "0.03",
+      "0.01",
+      "0.05"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Robert Koch's assistant had advised him to use agar instead of gelatin because:",
+    "options": [
+      "Agar is more nutritious",
+      "Gelatin melts at 250C",
+      "Gelatin is not easily available",
+      "Agar is cheaper",
+      "Gelatin is cheap"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Robertson cooked meat broth is an example:",
+    "options": [
+      "Enriched media",
+      "Enrichment media",
+      "Nutrient media",
+      "Anaerobic media",
+      "Chocolate agar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Blood agar is an example:",
+    "options": [
+      "Enriched media",
+      "Enrichment media",
+      "Nutrient media",
+      "Special media",
+      "Differential media"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In blood culture the ratio of blood to reagent is:",
+    "options": [
+      "ratio 1:5",
+      "ratio 1:10",
+      "ratio 1:20",
+      "ratio 1:50",
+      "ratio 1:100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Smith Noguchi's media is used for:",
+    "options": [
+      "Salmonella",
+      "Listeria",
+      "Bacillus",
+      "Klebsiella",
+      "Spirochetes"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "To prevent swarming the % agar in Nutrient agar has to be increased at least to ___% ?",
+    "options": [
+      "0.02",
+      "0.04",
+      "0.06",
+      "0.08",
+      "0.1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a selective media:",
+    "options": [
+      "Blood Agar",
+      "Thayer Martin media",
+      "Wilson Blair media",
+      "LJ medium",
+      "Chocolate medium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Plasmodium falciparum affects all organs except",
+    "options": [
+      "Lung",
+      "Liver",
+      "Kidney",
+      "Heart",
+      "Brain"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The mature cyst of Entamoeaba histolytica differs from Entamoeba coli, in the following except",
+    "options": [
+      "Size is 6 to 15 microns",
+      "Nuclei are 1 to 4 in number",
+      "Karyosome is central in position",
+      "None",
+      "4 nuclei"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Fulminant Amoeba meningoencephalitis caused by",
+    "options": [
+      "Acanthamoeba",
+      "N. folwler",
+      "E. histolytica",
+      "E. coli",
+      "C. parvum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kala-azar in India is caused by",
+    "options": [
+      "P. papatasi",
+      "P. serpenti",
+      "P. argentipes",
+      "Oncocercus",
+      "Taenia saginata"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Heating at 630C for 30 min doesn't",
+    "options": [
+      "Prion",
+      "Coxiella",
+      "Tubercle bacilli",
+      "Spores",
+      "E.coli"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Simple life cycle is seen in:",
+    "options": [
+      "Ascaris",
+      "T.solium",
+      "Toxoplasma",
+      "Giardia",
+      "Trichinella"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Fish acts as intermediate host in:",
+    "options": [
+      "D.latum",
+      "Clonorchis sinensis",
+      "H.diminuta",
+      "H.nana",
+      "Necator"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Two hosts are required in:",
+    "options": [
+      "T.solium",
+      "E.histolytica",
+      "T.saginata",
+      "Giardia",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Culex mosquito is associated with the transmission of:",
+    "options": [
+      "Malaria",
+      "Filariasis",
+      "Dengue",
+      "Japanese encephalitis",
+      "Yellow fever"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Amoebic liver abscess can be diagnosed by demonstrating:",
+    "options": [
+      "Cysts in the sterile pus",
+      "Trophozoites in the pus",
+      "Cysts in the intestine",
+      "Trophozoites in the faces",
+      "Indirect hemagglutination test"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following does not pass through the lungs",
+    "options": [
+      "Hookworm",
+      "Ascaris",
+      "Strongyloidis",
+      "Enterobius Vermicularis",
+      "Plasmodium.malaria"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "The infective form of toxoplasma gondii is",
+    "options": [
+      "Oocyst",
+      "Bradycyst",
+      "Tachyzoit",
+      "All of the above",
+      "Sporozoites"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a pregnant lady of 8 weeks, allergic to penicillin, VDRL was done which found to be positive. The drug of choice for treatment is:",
+    "options": [
+      "Erythromycin",
+      "Penicillin",
+      "Tetracycline",
+      "Desensitization",
+      "Both A&B"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A sewer worker comes with high grade fever, neck rigidity and signs of meningismus. Lab findings suggestive of renal failure and elevated liver enzymes. Most appropriate drug?",
+    "options": [
+      "Benzyl pencillin",
+      "Ciprofloxacin",
+      "Doxycycline",
+      "Cotrimoxazole",
+      "Metronidazole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A medical facility needs to sterilize surgical instruments for an upcoming operation. Which of the following methods would be most appropriate for sterilizing these instruments?",
+    "options": [
+      "Boiling in water for 10 minutes",
+      "Ethylene oxide gas sterilization",
+      "Disinfection with alcohol wipes",
+      "Autoclaving at 121°C for 15 minutes",
+      "Exposing to UV light for 30 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A patient presents with lower gastrointestinal bleed. Sigmoidoscopy shows ulcer in the sigmoid. Biopsy from this area shows flask-shaped ulcers. Which of the following is the most appropriate treatment",
+    "options": [
+      "Intravenous ceftriaxone",
+      "Intravenous metronidazole",
+      "Intravenous steroids and sulphasalazine",
+      "Hydrocortisone enemas",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A patient following use of contact lens, developed corneal ulcers and symptoms of conjunctivitis. Saline mount preparation of corneal scrapping shows polygonal cyst. What should be the probable diagnosis?",
+    "options": [
+      "Acanthamoeba",
+      "Naegleria",
+      "Entamoeba",
+      "Giardia",
+      "Ascaris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30 year old patient presented with features of acute meningoencephalitis in the casualty. His CSF on wet mount microscopy revealed motile unicellular microorganisms. The most likely organism is",
+    "options": [
+      "Naegleria fowleri",
+      "Acanthamoeba castellani",
+      "Entamoeba histolytica",
+      "Trypanosoma cruzi",
+      "T.saginata"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An anxious mother brought her 4 year old daughter to the pediatrician. The girl was passing loose bulky stools for the past 20 days. This was often associated with pain in abdomen. The pediatrician ordered the stool examination, which showed the following organisms. Identify the organism",
+    "options": [
+      "Entamoeba histolytica",
+      "Giardia lamblia",
+      "Cryptosporidium",
+      "E.coli",
+      "Trichinella"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "25 years old male presented with diarrhea for 6 months. On examination the causative agent was found to be acid fast with 12 micro meter diameter. The most likely agent is",
+    "options": [
+      "Cryptosporidium",
+      "Isospora",
+      "Cyclospora",
+      "Giardia",
+      "Strongyloides"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following parasite can enter through intact skin?",
+    "options": [
+      "Giardia",
+      "Whip worm",
+      "Strongyloides",
+      "Trichinella",
+      "Hookworm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which among the following doesn't enter human body via skin?",
+    "options": [
+      "Ancyclostoma",
+      "Strongyloides",
+      "Trichinella",
+      "Necator",
+      "Giardia"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Protozoa belongs to kingdom:",
+    "options": [
+      "Monera",
+      "Protista",
+      "Plantae",
+      "Animalia",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which worm is longest:",
+    "options": [
+      "T.solium",
+      "T.saginata",
+      "Hookworm",
+      "A.lumbricoides",
+      "Anguis fragilis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A laboratory technician is tasked with sterilizing glassware for microbiological experiments. What method should they employ to ensure complete sterilization?",
+    "options": [
+      "Washing with soap and water",
+      "Dry heat sterilization at 160°C for 2 hours",
+      "Immersion in iodine solution for 30 minutes",
+      "Flash sterilization at 134°C for 3 minutes",
+      "Steam sterilization at 100°C for 30 minutes"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Situation: A dentist's office needs to sterilize dental instruments between patient appointments. Which of the following methods would be the most practical and effective for this purpose?",
+    "options": [
+      "Ethylene oxide gas sterilization",
+      "Boiling instruments in water for 5 minutes",
+      "Dry heat sterilization at 180°C for 1 hour",
+      "Autoclaving at 121°C for 20 minutes",
+      "Wiping instruments with disinfectant wipes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "pH of sabouraud's dextrose agar is adjusted to :",
+    "options": [
+      "pH 4-6",
+      "pH 1-2",
+      "pH 6-8",
+      "pH 8-10",
+      "pH 5-7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following organism is biggest",
+    "options": [
+      "Balantidium Coli",
+      "Entamoeba coli",
+      "Escherichia coli",
+      "Entamoeba Histolytica",
+      "C. parvum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "All are seen in cyst of E. histolytica except",
+    "options": [
+      "Glycogen mass",
+      "Chromatidial bars",
+      "Eccenteric nucleus",
+      "Refractile nucleus",
+      "Karyosomes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The infective form of toxoplasma gondii is",
+    "options": [
+      "Oocyst",
+      "Bradycyst",
+      "Tachyzoit",
+      "All of the above",
+      "Sporozoites"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is false about Wuchereria bancrofti",
+    "options": [
+      "Causes filariasis",
+      "Body is long and slender",
+      "Terminal nuclei absent",
+      "Man and anopheles are host",
+      "The male worm is smaller"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which is an enrichment media?",
+    "options": [
+      "Selenite F broth",
+      "Meat extract broth",
+      "Dorset egg media",
+      "Chocolate agar",
+      "Nutrient agar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "All the following are True about Brugia malayi except",
+    "options": [
+      "The intermediate hosts in the India are Mansoni",
+      "The tail tip is free from nuclei",
+      "Nuclei are blurred, so counting is difficult",
+      "Adult worm is found in the lymphaitc system",
+      "Nematode"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the most common location of intracranial neurocysticerosis ?",
+    "options": [
+      "Brain parenchyma",
+      "Subarachnoid space",
+      "Spinal cord",
+      "Orbit",
+      "The ventricles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The infective form of toxoplasma gondii is",
+    "options": [
+      "Oocyst",
+      "Bradycyst",
+      "Tachyzoit",
+      "All of the above",
+      "Sporozoites"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Type of immune response",
+    "options": [
+      "innate",
+      "adaptive",
+      "primary",
+      "secondary",
+      "all of above"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Cysticercosis is caused by",
+    "options": [
+      "T.solium",
+      "T.saginata",
+      "A.duodenale",
+      "E.granulosus",
+      "D.latum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cause of epilepsy in upto 50% Indian patients is",
+    "options": [
+      "Neurocysticercosis",
+      "Cerebral malaria",
+      "Toxoplasmosis",
+      "Cerebral hydatid cyst",
+      "H.nana"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Skin test useful in hydatid disease is",
+    "options": [
+      "Casoni's test",
+      "Schick test",
+      "Patch test",
+      "Dick's test",
+      "Elek test"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Arc-5 in CIEP is diagnostic for",
+    "options": [
+      "Hydatid disease",
+      "Cysticercosis",
+      "Cryptococcosis",
+      "Brucellosis",
+      "Schistosomiasis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Intermediate host for hydatid disease",
+    "options": [
+      "Man",
+      "Dog",
+      "Cat",
+      "Foxes",
+      "Birds"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hydatid disease of liver is caused by",
+    "options": [
+      "Strongloides",
+      "Echinococcus granulosus",
+      "Taenia solium",
+      "Trichinella spiralis",
+      "L.donovani"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following disease is transmitted by egg ingestion :",
+    "options": [
+      "Taeniasis",
+      "Trichinosis",
+      "Hydatidosis",
+      "Strongyloidosis",
+      "L.donovani"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Megaloblastic anaemia is caused by",
+    "options": [
+      "Diphyllobothrium latum",
+      "Schistosoma hematobium",
+      "Echinococcus granulosus",
+      "Taenia solium",
+      "A. duodenale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "All float in a saturated salt solution except",
+    "options": [
+      "Clonorchis sinensis",
+      "Fertilised eggs of ascaris",
+      "Larva of strongyloidis",
+      "Trichuris trichura",
+      "Enterobius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cholangiocarcinoma is caused by",
+    "options": [
+      "Fasciola infestation",
+      "Clonorchis infestation",
+      "Paragonimus infestation",
+      "Ascaris infestation",
+      "H.nana"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "On microscopic examination eggs are seen, but on saturation with salt solution no eggs are seen, The eggs are likely to be of",
+    "options": [
+      "Trichuris trichura",
+      "Taenia solium",
+      "Ascaris lumbricoides",
+      "Ancylostoma duodenale",
+      "T. Solium"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A patient present with diarrhoea. Analysis of stool on wet mount shows mobile protozoa without RBCs and pus cells. the Diagnosis is",
+    "options": [
+      "Balantidium coli",
+      "Giardiasis",
+      "Trichomonas hominis",
+      "Entamoeba histolytica",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 30 year old patient treated with features of acute meningoencephalitis in casualty. His CSF on wet mount microscopy revealed motile unicellular microorganisms. The most likely organism is",
+    "options": [
+      "Naegleria fowleri",
+      "Acanthamoeba castellani",
+      "Entamoeba histolytica",
+      "Trypanosoma cruzi",
+      ""
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 35 year old male suffering from sudden onset of high grade fever. On malarial slide examination all stages of parasites are seen with schizonts of 20 microns size with 14-20 merozoites per cell and yellow brown pigment. The diagnosis is",
+    "options": [
+      "Plasmodium falciparum",
+      "Plasmodium ovale",
+      "Plasmodium malariae",
+      "Plasmodium ovale",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "One of the following transmitted through skin",
+    "options": [
+      "Ascaris lumbricoides",
+      "Trichuris-trichura",
+      "Necator americana",
+      "Strongyloides",
+      "Taenia solium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Pigs are resevoir for",
+    "options": [
+      "T.solium",
+      "T.saginata",
+      "Trichinella spiralis",
+      "Ancyclostoma",
+      "H.nana"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sputum examination is not useful in diagnosis of",
+    "options": [
+      "Trichuriasis trichura",
+      "Ancylostoma duodenale",
+      "Paragonimus",
+      "Strongyloides",
+      "Kala-azar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Most common presenting symptom of thread worm infection amongst the following is",
+    "options": [
+      "Abdominal pain",
+      "Rectal prolapse",
+      "Urticaria",
+      "Vaginitis",
+      "Pneumonai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Autoinfection is seen with",
+    "options": [
+      "Ankylostoma",
+      "Enterobius",
+      "Echinococcus",
+      "Ascariasis",
+      "Schistosoma haematobium"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is viviparous",
+    "options": [
+      "Strongyloidis stercoralis",
+      "Trichinella spiralis",
+      "Enterobious",
+      "Ascaris",
+      "E.coli"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Visceral larva migrains is due to",
+    "options": [
+      "Ascariasis",
+      "Toxocaracanis",
+      "Schistosomiasis",
+      "Clonorchis Buski",
+      "Brucellosis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The intermediate host for T. Saginata is",
+    "options": [
+      "Man",
+      "Cow",
+      "Dog",
+      "Pig",
+      "Flea"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Neurocysticerosis is caused by",
+    "options": [
+      "T. solium",
+      "T. saginata",
+      "D. latum",
+      "Ascaris lumbricodis",
+      "H.nana"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Coliform count is done by:",
+    "options": [
+      "VR medium",
+      "McConkey",
+      "Multiple tube method",
+      "Centrifugation",
+      "Microscoping"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not true regarding surveillance of water pollution?",
+    "options": [
+      "Multiple tube method is used to calculate the number of bacteria",
+      "E.coli can be tested by Indole test at 44°C",
+      "Sodium thiosulfate is used to neutralize chlorine",
+      "Presence of Corynebacterium indicates recent contamination",
+      "Coliform can be tested by gas or Indole at 44,5°C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Disinfection of water by routine chlorination is classified under:",
+    "options": [
+      "Sterilization",
+      "Disinfection",
+      "Terminal Disinfection",
+      "Pre-current Disinfection",
+      "Sporicidal agent"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mac-conkeys Agar medium is :",
+    "options": [
+      "Enriched medium",
+      "Enrichment medium",
+      "Differential medium",
+      "Synthetic medium",
+      "Nutrient medium"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A child from Bihar comes with fever. Blood examination shows sheathed microfilaria with nuclei up to tail tip. The diagnosis is",
+    "options": [
+      "B. malayi",
+      "W. bancrofti",
+      "Loa loa",
+      "Oncicerca volvulus",
+      "E.coli"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kalu, 30 year old man, presented with subacutaneous itchy nodules over left iliac crest. On examination they are firm, non-tender, and mobile Skin scrappings contain microfilaria and adult worms of",
+    "options": [
+      "Loa-loa",
+      "Onchocerca volvulus",
+      "Brugia malayi",
+      "Mansonella persetans",
+      "Echinococcus granulosus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Naturally acquired active immunity would be most likely acquired through which of the following processes?",
+    "options": [
+      "Vaccination",
+      "Drinking colostrum",
+      "Natural birth",
+      "Infection with disease causing organism followed by recovery",
+      "All of these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following statements is true about Passive Immunity?",
+    "options": [
+      "This immunity causes reactions",
+      "This immunity develops immediately",
+      "This immunity lasts only for a few weeks or months",
+      "All of the above",
+      "Non of these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a false statement about innate immunity?",
+    "options": [
+      "They include inflammatory responses",
+      "They include physical and chemical barriers",
+      "It involves lymphocytes and antibodies",
+      "Natural killer cells are participants in the process",
+      "It may involve the formation of complement protein cascades"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The antigen-binding site on antibodies is formed primarily by:",
+    "options": [
+      "The constant regions of H and I chains",
+      "The hypervariable regions of H and L chains",
+      "The hypervariable regions of H chains",
+      "The variable regions of H chains",
+      "The variable regions of L chains"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Catalase production is negative in:",
+    "options": [
+      "Staphylococcus",
+      "Streptococcus",
+      "Proteus",
+      "Salmonella",
+      "E.coli"
+    ],
+    "answer": 1
+  }
+]
