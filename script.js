@@ -151,7 +151,7 @@ function showResult() {
   html += `<hr>
            <div class="footer">
              <p><strong>All THE BEST</strong></p>
-             <p>Officially Created By <strong>Prashant Vala</strong></p>
+             <p>Officially Created By <strong>Prime</strong></p>
              <p class="disclaimer">
                Disclaimer:
              </p>
@@ -190,7 +190,7 @@ function restartQuiz() {
     <hr>
     <div class="footer">
       <p><strong>All the Best</strong></p>
-      <p>Officially Created By <strong>Prashant Vala</strong></p>
+      <p>Officially Created By <strong>Prime</strong></p>
       <p class="disclaimer">
         Disclaimer: .
       </p>
