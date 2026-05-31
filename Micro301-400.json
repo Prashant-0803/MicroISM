@@ -1,0 +1,832 @@
+[
+  {
+    "question": "What are the main transmission routes of listeriosis?",
+    "options": [
+      "Parenteral route",
+      "Contact with infected animals",
+      "Consumption of contaminated dairy products and cheeses",
+      "Tick bites",
+      "Airborne transmission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which microorganisms are considered intracellular parasites?",
+    "options": [
+      "Treponema pallidum",
+      "Staphylococcus aureus and Streptococcus pyogenes",
+      "Escherichia coli and Salmonella enterica",
+      "Mycoplasma pneumoniae and Treponema pallidum",
+      "Vibrio cholerae and Shigella dysenteriae"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How is syphilis transmitted?",
+    "options": [
+      "Through food",
+      "Airborne transmission",
+      "Through mosquito bites",
+      "Sexually and vertically from mother to child",
+      "Consumption of contaminated water"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organisms cause rickettsioses?",
+    "options": [
+      "Leptospirosis",
+      "Treponema pallidum",
+      "Mycoplasma pneumoniae",
+      "Rickettsia rickettsii",
+      "Leptospira interrogans"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which organisms belong to Mycoplasma?",
+    "options": [
+      "Rickettsia",
+      "Mycobacterium tuberculosis",
+      "Mycoplasma pneumoniae",
+      "Treponema pallidum",
+      "Borrelia recurrentis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What symptoms are characteristic of relapsing fever?",
+    "options": [
+      "Headache",
+      "Skin rashes and fever",
+      "Lymphadenopathy and gastrointestinal disturbances",
+      "High temperature, muscle weakness, and headache",
+      "Muscle paralysis and edema"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What symptoms are characteristic of rickettsioses?",
+    "options": [
+      "Gastrointestinal disturbances",
+      "High temperature, gastrointestinal disturbances",
+      "Lymphadenopathy, fever",
+      "Headache, skin rashes",
+      "Muscle weakness, paralysis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What diseases are caused by Mycoplasma pneumoniae?",
+    "options": [
+      "Salmonella typhi",
+      "Syphilis",
+      "Leptospirosis",
+      "Community-acquired pneumonia",
+      "Relapsing fever"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which organs and systems are more commonly affected by infections caused by Mycoplasma pneumoniae?",
+    "options": [
+      "Reproductive system",
+      "Liver and kidneys",
+      "Central nervous system",
+      "Respiratory system",
+      "Musculoskeletal system"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which method is used for the laboratory diagnosis of intracellular parasites such as Rickettsia?",
+    "options": [
+      "Biochemestry test",
+      "Culture methods",
+      "Serological tests",
+      "Microscopic examination of smears",
+      "Molecular methods (PCR)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organisms cause syphilis?",
+    "options": [
+      "Malaria",
+      "Leptospira interrogans",
+      "Rickettsia rickettsii",
+      "Treponema pallidum",
+      "Mycoplasma pneumoniae"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How is relapsing fever transmitted?",
+    "options": [
+      "Contaminated water",
+      "Through tick bites",
+      "Sexually",
+      "Airborne transmission",
+      "Consumption of contaminated food"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is rickettsiosis transmitted?",
+    "options": [
+      "Airborne transmission",
+      "Through tick bites",
+      "Contaminated water",
+      "Sexually",
+      "Contact with the blood of infected animals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is Mycoplasma pneumoniae transmitted?",
+    "options": [
+      "Through blood",
+      "Sexually",
+      "Airborne transmission",
+      "Through mosquito bites",
+      "Contact with infected animals"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What factors contribute to the development of infections caused by Mycoplasma pneumoniae?",
+    "options": [
+      "Parenteral route",
+      "Low air humidity",
+      "Smoking and passive smoking",
+      "Water pollution",
+      "Outdoor walks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Antenatal maternal HIV diagnosis is of importance in",
+    "options": [
+      "To prevent vertical transmission",
+      "To terminate",
+      "To discharge",
+      "To isolate the patient",
+      "to monitor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an opportunistic organism in AIDS?",
+    "options": ["Ascaris", "Strongyloidosis", "Hook worm", "Enterobius", "E.coli"],
+    "answer": 1
+  },
+  {
+    "question": "Electron microscopy is helpful in diagnosis of",
+    "options": ["Rota virus", "RSV", "Herpes virus", "Prion", "Inluenza"],
+    "answer": 0
+  },
+  {
+    "question": "Rotavirus is detected by",
+    "options": [
+      "Antigen in stool",
+      "Antibody in serum",
+      "Demonstration of virus",
+      "Stool culture",
+      "indirect immunofluorescene"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Rota virus vaccine is given by which route",
+    "options": ["Intramuscular", "Intravenous", "Oral", "Subcutaneous", "Inhalation"],
+    "answer": 2
+  },
+  {
+    "question": "According to drug and cosmetic act which is not mandatory for screening of donated blood",
+    "options": ["HIV", "Hepatitis B", "Hepatitis C", "West Nile virus", "CMV"],
+    "answer": 4
+  },
+  {
+    "question": "All of the following methods are used for the diagnosis of HIV infection in a 2 month old child except",
+    "options": ["DNA-PCR", "Viral culture", "HIV ELISA", "P24 antigen assay", "antibody detection"],
+    "answer": 2
+  },
+  {
+    "question": "Which is not transmitted by sexual route?",
+    "options": ["HAV", "HEV", "HAV & HEV", "HDV", "Influenza"],
+    "answer": 1
+  },
+  {
+    "question": "With which of the following of viral hepatitis infection in pregnancy, the maternal mortality is highest:",
+    "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis E", "Hepatitis D"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is Calcivirus",
+    "options": ["Hepatitis E", "Hepatitis B", "Hepatitis C", "Hepatitis A", "Hepatitis D"],
+    "answer": 0
+  },
+  {
+    "question": "Non-parenteral hepatitis is",
+    "options": ["Hepatitis E", "Hepatitis C", "Hepatitis B", "Hepatitis D", "Occult Hepatitis C"],
+    "answer": 0
+  },
+  {
+    "question": "A 30 year old patient presented with history of jaundice for 10 days. His liver function tests showed bilirubin of 10mg/dl, SGOT/SGPT - 1100/1450, serum alkaline phosphatase - 240 IU. He was positive for HbsAg. What should be the confirmatory test to establish acute hepatitis B infection ?",
+    "options": [
+      "IgM Anti-HBc antibody",
+      "HbeAg",
+      "HBV DNA by PCR",
+      "Anti-HBc antibody",
+      "Viral culture"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 30 year old lady delivered a healthy baby at 37 week of gestation. She was a known case of chronic hepatitis B infection. She was positive for HBsAg but negative for HBcAg. Which of the following is the most appropriate treatment for the baby ?",
+    "options": [
+      "Both active and passive immunization soon after birth",
+      "Passive immunization soon after birth and active immunization at 1 year of age",
+      "Only passive immunization soon after birth",
+      "Only active immunization soon after birth",
+      "Give antiviral therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A mother is HBs Ag positive at 32 weeks of pregnancy. What should be given to the newborn to prevent neonatal infection",
+    "options": [
+      "Hepatitis B vaccine + immunoglobulins",
+      "Immunoglobulins only",
+      "Hepatitis B vaccine only",
+      "Immunoglobulins followed by vaccine 1 month later",
+      "No vaccine+ Immunoglobulins"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An HIV patient complains for visual disturbances. Fundal examination shows bilateral retinal exudates and perivascular hemorrhages. Which of the following viruses are most likely to be responsible for this retinitis",
+    "options": [
+      "Herpes simplex retinitis",
+      "Human herpes virus",
+      "Cytomegalovirus",
+      "EBV",
+      "HSV"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Anti rabies vaccine is prepared by?",
+    "options": ["Street virus", "Fixed virus", "Live virus", "Wild virus", "Complex virus"],
+    "answer": 1
+  },
+  {
+    "question": "Neurological complications following Rabies vaccine is common with",
+    "options": ["HDCS Vaccine", "Chick embryo Vaccine", "Semple Vaccine", "Duck Egg Vaccine", "none all above"],
+    "answer": 2
+  },
+  {
+    "question": "All of the following rabies vaccines are commercially available except",
+    "options": [
+      "Purified chick embryo cell vaccine (PCEC)",
+      "Human diploid cell vaccine",
+      "Vero continuous cell vaccine",
+      "Recombinant glycoprotein",
+      "Duck Egg Vaccine"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Prion are",
+    "options": [
+      "Infectious proteins",
+      "Made up of bacteria and virus particles",
+      "Nuclear material",
+      "Can be cultured in cell free media",
+      "Complex virus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Prions consists of",
+    "options": ["DNA and RNA", "DNA, RNA and proteins", "RNA and proteins", "Only proteins", "DNA and proteins"],
+    "answer": 3
+  },
+  {
+    "question": "True about Prion disease is all except",
+    "options": [
+      "Myoclonus is seen in 10% of the patients",
+      "Caused by infectious protein",
+      "Brain biopsy is diagnostic",
+      "Commonly manifests as dementia",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Fatal familial insomnia is associated with",
+    "options": ["Prion disease", "Degenerative disease", "Neoplastic disease", "Vascular disease", "Measles"],
+    "answer": 0
+  },
+  {
+    "question": "Creutzfeld Jakob disease is caused by",
+    "options": ["Prion", "JC virus", "Genetic factors", "Nutritional deficiency", "Rubella"],
+    "answer": 0
+  },
+  {
+    "question": "Mad cow disease is due to",
+    "options": ["Slow virus", "Mycoplasma", "Bacteria", "Fungus", "Rickettsia"],
+    "answer": 0
+  },
+  {
+    "question": "\"Human cannibalism\" is associated with",
+    "options": ["Q fever", "Sleeping sickness", "Trachoma", "Kuru", "Mycoplasma"],
+    "answer": 3
+  },
+  {
+    "question": "EBOLA virus- True statement(s) is/are",
+    "options": [
+      "Incubation less than 48hr",
+      "Transmission is by oral route",
+      "Specific treatment available",
+      "Cases are restricted to Guinea, Liberia and Sierra Leone",
+      "note contagious"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Immunocompromised patient due to transplantation is suffering from pyrexia and neutropenia. Most likely cause is",
+    "options": ["HSV", "CMV", "Gram '-' ve organism", "Gram '+' ve organism", "Proteus"],
+    "answer": 1
+  },
+  {
+    "question": "Bitten dog should be observed for at least",
+    "options": ["5 days", "10 days", "15 days", "21 days", "28 days"],
+    "answer": 1
+  },
+  {
+    "question": "For the treatment of case of class III dog bite, all of the following are correct except",
+    "options": [
+      "Give Ig for passive immunity",
+      "Give ARV",
+      "Immediately stitch wound under antibiotic coverage",
+      "Immediately wash wound with soap and water",
+      "intensive therapy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Class II exposure in animal bites includes the following",
+    "options": [
+      "Scratches without oozing of blood",
+      "Nibbling of uncovered area",
+      "Scratch with oozing of blood on palm",
+      "Bites from wild animals",
+      "Bites from mosquitoes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bitten dog should be observed for at least",
+    "options": ["5 days", "10 days", "15 days", "21 days", "28 days"],
+    "answer": 1
+  },
+  {
+    "question": "Laboratory diagnosis of viral respiratory tract infection can be established by all of the following tests except",
+    "options": [
+      "Detection of virus specific IgM antibodies in single serum specimen",
+      "Demonstration of viral antigens by indirect immunofluorescene assay in nasopharyngeal washing",
+      "Isolation of viruses using centrifugation enhanced culture",
+      "Detection of viral hemagglutination inhibiting (HAI) antibodies in a single serum specimen",
+      "PCR"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "For the treatment of case of class III dog bite, all of the following are correct except",
+    "options": [
+      "Give Ig for passive immunity",
+      "Give ARV",
+      "Immediately stitch wound under antibiotic coverage",
+      "Immediately wash wound with soap and water",
+      "intensive therapy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "All of the following methods are used for the diagnosis of HIV infection in a 2 month old child except",
+    "options": ["DNA-PCR", "Viral culture", "HIV ELISA", "P24 antigen assay", "antibody detection"],
+    "answer": 2
+  },
+  {
+    "question": "According to drug and cosmetic act which is not mandatory for screening of donated blood",
+    "options": ["HIV", "Hepatitis B", "Hepatitis C", "West Nile virus", "CMV"],
+    "answer": 4
+  },
+  {
+    "question": "Immunocompromised patient due to transplantation is suffering from pyrexia and neutropenia. Most likely cause is",
+    "options": ["HSV", "CMV", "Gram '-' ve organism", "Gram '+' ve organism", "Proteus"],
+    "answer": 1
+  },
+  {
+    "question": "A neonate develops encephalitis without any skin lesions most probable causative organism is",
+    "options": ["HSV I", "HSV II", "Meningococci", "Streptococci", "Staphylococcus aureus"],
+    "answer": 1
+  },
+  {
+    "question": "A mother delivers a baby three days after developing chickenpox. Which of the following is true?",
+    "options": [
+      "No risk to both mother and baby",
+      "Baby has a risk of congenital Varicella infection",
+      "Give antiviral treatment to mother",
+      "Give antiviral treatment to mother",
+      "Give antibiotocs treatment to mother"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 40 year old man underwent kidney transplantation. Two months after transplantation, he developed fever and feature suggestive of bilateral diffuse interstitial pneumonitis. Which of the following is most likely etiologic agent",
+    "options": [
+      "Herpes simplex virus",
+      "Cytomegalovirus",
+      "Epstein Barr virus",
+      "Varicella – zoster virus MULTIPLE",
+      "Adenovirus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is locally injected in class III dog bites?",
+    "options": ["Antibiotic solution", "Tetanus toxoid", "Anti rabies serum", "Rabies vaccine", "Hormones"],
+    "answer": 2
+  },
+  {
+    "question": "Dog bite in palm fingers with oozing of blood from neck…. Belongs to which class exposure",
+    "options": ["Class I", "Class II", "Class III", "Class IV", "None"],
+    "answer": 2
+  },
+  {
+    "question": "A boy got unprovoked bite from a neighbour's dog. The animal control authority caught the dog and it was found to be healthy. What will be the next step?",
+    "options": [
+      "Test antibody level of dog",
+      "Withhold immunisation and observe dog for 10 days for signs of rabies",
+      "Start post exposure prophylaxis and watch the dog for 10 days",
+      "Kill the dog and watch for negri body in brain",
+      "Give antibiotics therapy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A VDRL reactive mother gave birth to an infant. All of the following would help in determining the risk of transmission to the infant except:",
+    "options": [
+      "TPHA test on the serum sample of the mother",
+      "TPHA test on the serum sample of the infant",
+      "VDRL on the paired serum sample of the infant and mother",
+      "Time interval between the treatment of the mother and her delivery",
+      "TPHA test on the serum sample of the infant and mother"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Congenital syphilis can be best diagnosed by",
+    "options": ["IgM FTA – ABS", "IgG FTA – ABS", "VDRL", "TPI", "FTA ABS"],
+    "answer": 0
+  },
+  {
+    "question": "Acute intravascular hemolysis can be caused by infection due to all of the following organisms except:",
+    "options": [
+      "Clostridium tetani",
+      "Bartonella bacilliformis",
+      "Plasmodium falciparum",
+      "Babesia microti",
+      "both A&B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vaccine prepared by Embryonated Hen's egg are",
+    "options": ["Measles", "Rabies", "Rubella", "Varicella", "Influenza"],
+    "answer": 4
+  },
+  {
+    "question": "All the following vaccines are developed from embryonated eggs except",
+    "options": ["Influenza", "Hepatitis-A", "Yellow fever", "Rabies", "all of above"],
+    "answer": 1
+  },
+  {
+    "question": "A 30 year old lady delivered a healthy baby at 37 week of gestation. She was a known case of chronic hepatitis B infection. She was positive for HBsAg but negative for HBcAg. Which of the following is the most appropriate treatment for the baby ?",
+    "options": [
+      "Both active and passive immunization soon after birth",
+      "Passive immunization soon after birth and active immunization at 1 year of age",
+      "Only passive immunization soon after birth",
+      "Only active immunization soon after birth",
+      "Give antiviral therapy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A mother is HBs Ag positive at 32 weeks of pregnancy. What should be given to the newborn to prevent neonatal infection",
+    "options": [
+      "Hepatitis B vaccine + immunoglobulins",
+      "Immunoglobulins only",
+      "Hepatitis B vaccine only",
+      "Immunoglobulins followed by vaccine 1 month later",
+      "No vaccine+ Immunoglobulins"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 15 year old girl was admitted to the infectious disease hospital with a provisional diagnosis of rabies. The most suitable clinical sample that can confirm the ante mortem diagnosis is:",
+    "options": [
+      "Serum for anti:rabies IgG antibody",
+      "Corneal impression smear for immunofluorescence stain",
+      "CSF sample for viral culture",
+      "Giemsa stain on smear prepared from salivary secretions",
+      "tissue"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A resident doctor sustained a needle stick injury while sampling blood of patient who is HIV positive. A decision is taken to often him postexposure prophylaxis. Which one of the following would be the best recommendation",
+    "options": [
+      "Zidovudine + Lamivudine for 4 weeks",
+      "Zidovudine + Lamivudine Nevirapine for 4 weeks",
+      "Zidovudine + Lamivudine + Indinavir for 4 weeks",
+      "Zidovudine + Stavudine + nevirapine for 4 weeks",
+      "Zidovudine + Lamivudine Nevirapine for 2 weeks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An HIV patient complains of visual disturbances. Fundal examination shows bilateral retinal exudates and perivascular hemorrhages. Which of the following viruses are most likely to be responsible for this retinitis",
+    "options": [
+      "Herpes simplex retinitis",
+      "Human herpes virus",
+      "Cytomegalovirus",
+      "EBV",
+      "HSV"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient comes to hospital with a history of sore throat, diarrhea and sexual contact 2 weeks before. The best investigation to rule out HIV is",
+    "options": ["P24 antigen assay", "ELISA", "Western blot", "Lymph node biopsy", "PCR"],
+    "answer": 0
+  },
+  {
+    "question": "A resident doctor sustained a needle stick injury while sampling blood of a patient who is HIV positive. A decision is taken to offer him post-exposure prophylaxis. Which one of the following would be the best recommendation?",
+    "options": [
+      "Zidovudine + Lamivudine for 4 weeks",
+      "Zidovudine + Lamivudine Nevirapine for 4 weeks",
+      "Zidovudine + Lamivudine + Indinavir for 4 weeks",
+      "Zidovudine + Stavudine + nevirapine for 4 weeks",
+      "Zidovudine + Lamivudine Nevirapine for 2 weeks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is used to prevent HIV transmission from an HIV positive pregnant mother to child?",
+    "options": ["Lamivudine", "Stavudine", "Nevirapine", "Didanosine", "Zidovudine"],
+    "answer": 2
+  },
+  {
+    "question": "A neonate develops encephalitis without any skin lesions most probable causative organism is",
+    "options": ["HSV I", "HSV II", "Meningococci", "Streptococci", "Staphylococcus aureus"],
+    "answer": 1
+  },
+  {
+    "question": "A 25 year old farmer presented with history of high grade fever for 7 days and altered sensorium for 2days. On examination, he was comatosed and had conjunctival hemorrhage. Urgent investigations showed hemoglobin of 11gm/dl, serum bilirubin 8 mg/dl and urea 78mg/dl. Peripheral blood smear was negative for malarial parasite. What is the most likely diagnosis:",
+    "options": ["Brucellosis", "Weil's disease", "Acute viral hepatitis", "Q fever", "Plague"],
+    "answer": 1
+  },
+  {
+    "question": "25 year old laborer 3 years back presented with penile ulcer not treated. Later he presented with neurological symptoms for which he got treated. Test to monitor response to treatment is",
+    "options": ["VDRL", "FTA-ABS", "TPI", "RPR", "B&C"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a features of Weil's disease",
+    "options": [
+      "Fever & jaundice",
+      "Hepatic encephalitis",
+      "Renal failure",
+      "Conjunctival hyperaemia and Skin purpura",
+      "All"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is /are transfusion transmitted viruses?",
+    "options": ["Hepatitis B", "CMV", "HTLV – 1", "Rubella", "Typhoid"],
+    "answer": 0
+  },
+  {
+    "question": "Bitten dog should be observed for at least",
+    "options": ["5 days", "10 days", "15 days", "21 days", "28 days"],
+    "answer": 1
+  },
+  {
+    "question": "For the treatment of case of class III dog bite, all of the following are correct except",
+    "options": [
+      "Give Ig for passive immunity",
+      "Give ARV",
+      "Immediately stitch wound under antibiotic coverage",
+      "Immediately wash wound with soap and water",
+      "intensive therapy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Class II exposure in animal bites includes the following",
+    "options": [
+      "Scratches without oozing of blood",
+      "Nibbling of uncovered area",
+      "Scratch with oozing of blood on palm",
+      "Bites from wild animals",
+      "Bites from mosquitoes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is locally injected in class III dog bites?",
+    "options": ["Antibiotic solution", "Tetanus toxoid", "Anti rabies serum", "Rabies vaccine", "Hormones"],
+    "answer": 2
+  },
+  {
+    "question": "A mother delivers a baby three days after developing chickenpox. Which of the following is true?",
+    "options": [
+      "No risk to both mother and baby",
+      "Baby has a risk of congenital Varicella infection",
+      "Give antiviral treatment to mother",
+      "Give antiviral treatment to mother",
+      "Give antibiotocs treatment to mother"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 40 year old man underwent kidney transplantation. Two months after transplantation, he developed fever and feature suggestive of bilateral diffuse interstitial pneumonitis. Which of the following is most likely etiologic agent",
+    "options": [
+      "Herpes simplex virus",
+      "Cytomegalovirus",
+      "Epstein Barr virus",
+      "Varicella – zoster virus MULTIPLE",
+      "Adenovirus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A person with renal transplant developed infection of graft within 2 months. Most probable cause of infection is?",
+    "options": ["Polyoma BK virus", "CMV", "Hepatits C", "Herpes simples virus", "Epstein Barr virus"],
+    "answer": 1
+  },
+  {
+    "question": "A 15 year old girl was admitted to the infectious disease hospital with a provisional diagnosis of rabies. The most suitable clinical sample that can confirm the ante mortem diagnosis is:",
+    "options": [
+      "Serum for anti:rabies IgG antibody",
+      "Corneal impression smear for immunofluorescence stain",
+      "CSF sample for viral culture",
+      "Giemsa stain on smear prepared from salivary secretions",
+      "tissue"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A neonate develops encephalitis without any skin lesions. Most probable causative organisms is:",
+    "options": ["HSV I", "HSV II", "Meningococci", "Streptococci", "α herpesviruses"],
+    "answer": 1
+  },
+  {
+    "question": "A patient presents with symptoms resembling those of variola virus infection. Which of the following laboratory methods is commonly used to confirm the diagnosis?",
+    "options": [
+      "Serological testing for IgG antibodies",
+      "Culture of throat swab on blood agar",
+      "Immunohistochemistry on skin biopsy",
+      "Electron microscopy of vesicular fluid",
+      "Direct fluorescent antibody (DFA) test on lesion scrapings"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "A group of individuals living in a densely populated urban area experiences an outbreak of yellow fever. Which of the following mosquito species is the primary vector for yellow fever virus transmission in such environments?",
+    "options": [
+      "Anopheles mosquito",
+      "Aedes aegypti mosquito",
+      "Culex mosquito",
+      "Ixodes tick",
+      "Phlebotomus sandfly"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A veterinarian suspects rabies in a wild animal that recently bit a person. What is the most appropriate laboratory test to confirm the diagnosis in the animal?",
+    "options": [
+      "Serum neutralization test",
+      "Viral culture from saliva",
+      "Reverse transcription-polymerase chain reaction (RT-PCR) on brain tissue",
+      "Agglutination test on cerebrospinal fluid",
+      "Immunohistochemistry on skin biopsy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An aid worker returns from a mission in a region affected by an Ebola outbreak and starts showing symptoms consistent with the disease. Which of the following diagnostic methods should be prioritized for rapid confirmation?",
+    "options": [
+      "Enzyme-linked immunosorbent assay (ELISA) for Ebola antibodies",
+      "Virus isolation from blood samples",
+      "Electron microscopy of serum samples",
+      "Reverse transcription-polymerase chain reaction (RT-PCR) on whole blood",
+      "Immunofluorescence assay (IFA) for Ebola antigens"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A pregnant woman seeks prenatal care in an area with ongoing Zika virus transmission. What is the recommended diagnostic approach to assess her Zika virus infection status?",
+    "options": [
+      "Detection of Zika virus RNA in amniotic fluid by RT-PCR",
+      "IgG serological testing for Zika virus antibodies",
+      "Culture of urine samples for Zika virus isolation",
+      "Immunohistochemistry on placental tissue",
+      "Direct visualization of Zika virus particles in maternal blood smear"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient presents with symptoms consistent with possible Ebola virus disease. The healthcare team needs to perform a rapid diagnostic test to confirm the diagnosis. Which of the following laboratory techniques is the most appropriate for quick and accurate detection of Ebola virus antigens?",
+    "options": [
+      "Serological testing for IgM antibodies",
+      "Enzyme-linked immunosorbent assay (ELISA) for Ebola nucleic acid detection",
+      "Immunohistochemistry on skin biopsy",
+      "Lateral flow immunoassay for Ebola virus antigens",
+      "Electron microscopy of blood samples"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aflatoxins is produced by:",
+    "options": [
+      "Aspergilus flavus",
+      "Aspergilus niger",
+      "Candidia",
+      "Cryptococcus/Nocardia",
+      "Aspergillus fumigatus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Common fungus causing corneal ulcer:",
+    "options": ["Aspergillus", "Mucor", "Fusarium", "Sprothrix", "Candida"],
+    "answer": 0
+  },
+  {
+    "question": "Branched septate hyphae found on corneal smear in a case of corneal ulcer is:",
+    "options": ["Candida", "Mucor", "Aspergillus", "Histoplasma", "Fusarium"],
+    "answer": 2
+  },
+  {
+    "question": "Most common Aspergillus infection in humans",
+    "options": [
+      "Aspergillus niger",
+      "Aspergillus flavus",
+      "Aspergillus fumigatus",
+      "Aspergillus nidulans",
+      "Aspergillus oryzae"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Special stain fungus",
+    "options": ["Masson Trichrome", "Silver Methanamine stain", "Alizarin Red", "Congo Red", "Gram-staining"],
+    "answer": 1
+  },
+  {
+    "question": "Which dye is most suitable for fungus demonstration in biopsy?",
+    "options": ["Alizarin red", "Veirhoff dye", "Manson's trichome", "PAS", "India ink stain"],
+    "answer": 3
+  },
+  {
+    "question": "Fungal spores are commonly formed by",
+    "options": [
+      "The fragmentation of the mycelium",
+      "Sporophores",
+      "Sporangia",
+      "Gametangia",
+      "All of these"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Branched septate hyphae found on corneal smear in a case of corneal ulcer is:",
+    "options": ["Candida", "Mucor", "Aspergillus", "Histoplasma", "Rhizopus"],
+    "answer": 2
+  },
+  {
+    "question": "Common fungus causing corneal ulcer:",
+    "options": ["Aspergillus", "Mucor", "Fusarium", "Sporthrix", "Histoplasma"],
+    "answer": 0
+  },
+  {
+    "question": "What is the probabale site of entry of a Aspergillus:",
+    "options": ["Puncture wound", "Blood", "Lungs", "Gastrointestinal tract", "None of these"],
+    "answer": 2
+  }
+]
