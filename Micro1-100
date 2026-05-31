@@ -1,0 +1,898 @@
+[
+  {
+    "question": "Robert Koch's assistant had advised him to use agar instead of gelatin because:",
+    "options": [
+      "Agar is more nutritious",
+      "Gelatin melts at 250C",
+      "Gelatin is not easily available",
+      "Agar is cheaper",
+      "Gelatin is cheap"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Agar conc. In nutrient agar is:",
+    "options": ["0.02", "0.04", "0.03", "0.01", "0.05"],
+    "answer": 0
+  },
+  {
+    "question": "Robert Koch's assistant had advised him to use agar instead of gelatin because:",
+    "options": [
+      "Agar is more nutritious",
+      "Gelatin melts at 250C",
+      "Gelatin is not easily available",
+      "Agar is cheaper",
+      "Gelatin is cheap"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Robertson cooked meat broth is an example:",
+    "options": [
+      "Enriched media",
+      "Enrichment media",
+      "Nutrient media",
+      "Anaerobic media",
+      "Chocolate agar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Blood agar is an example:",
+    "options": [
+      "Enriched media",
+      "Enrichment media",
+      "Nutrient media",
+      "Special media",
+      "Differential media"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In blood culture the ratio of blood to reagent is:",
+    "options": ["ratio 1:5", "ratio 1:10", "ratio 1:20", "ratio 1:50", "ratio 1:100"],
+    "answer": 0
+  },
+  {
+    "question": "Smith Noguchi's media is used for:",
+    "options": ["Salmonella", "Listeria", "Bacillus", "Klebsiella", "Spirochetes"],
+    "answer": 4
+  },
+  {
+    "question": "To prevent swarming the % agar in Nutrient agar has to be increased at least to ___% ?",
+    "options": ["0.02", "0.04", "0.06", "0.08", "0.1"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a selective media:",
+    "options": [
+      "Blood Agar",
+      "Thayer Martin media",
+      "Wilson Blair media",
+      "LJ medium",
+      "Chocolate medium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is an enrichment media?",
+    "options": [
+      "Selenite F broth",
+      "Meat extract broth",
+      "Dorset egg media",
+      "Chocolate agar",
+      "Nutrient agar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which one of the following is true:",
+    "options": [
+      "Agar has nutrient properties",
+      "Chocolate medium is selective medium",
+      "Addition of selective substances in a solid medium is called enrichment media",
+      "Chocolate medium is nutrient",
+      "Nutrient broth is basal medium"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Which is an enrichment media?",
+    "options": [
+      "Selenite F broth",
+      "Meat extract broth",
+      "Dorset egg media",
+      "Chocolate agar",
+      "Nutrient agar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Wet Mount microscopy is prosedure to observe:",
+    "options": ["capsule", "spore", "cell wall", "DNA", "motility"],
+    "answer": 4
+  },
+  {
+    "question": "What is the main stain used in Gram staining?",
+    "options": ["safranin", "crystal violet", "iodin", "KOH", "carbol fuchsin"],
+    "answer": 1
+  },
+  {
+    "question": "Wich is acid-fast bacteria",
+    "options": ["E.coli", "Salmonella", "Brucella", "Vibrio", "Mycobacteria"],
+    "answer": 4
+  },
+  {
+    "question": "A laboratory technician needs to prepare a bacterial smear for Gram staining. Which microscope should they use to examine the stained slide?",
+    "options": [
+      "Compound microscope",
+      "Electron microscope",
+      "Fluorescence microscope",
+      "Scanning electron microscope",
+      "Phase-contrast microscope"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "During a microbiology experiment, a researcher accidentally spills a culture of pathogenic bacteria. What immediate action should they take to prevent the spread of contamination?",
+    "options": [
+      "Leave the spill for the cleaning staff to handle",
+      "Quickly wipe the spill with paper towels",
+      "Pour disinfectant directly onto the spill",
+      "Notify the laboratory supervisor and follow the facility's spill cleanup protocol",
+      "Continue working and clean up the spill later"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A new laboratory technician needs to learn how to operate a spectrophotometer for measuring microbial growth. What is the most appropriate way for them to gain proficiency in using this equipment?",
+    "options": [
+      "Reading the instruction manual",
+      "Watching instructional videos online",
+      "Observing a senior technician demonstrate its use",
+      "Participating in hands-on training sessions",
+      "Trial and error experimentation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A microbiologist is conducting research to isolate and identify a novel bacterial species from soil samples. Which of the following research methods would be most suitable for this purpose?",
+    "options": [
+      "Polymerase chain reaction (PCR)",
+      "Microarray analysis",
+      "Metagenomics sequencing",
+      "Agarose gel electrophoresis",
+      "Immunohistochemistry"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A laboratory technician is required to work with potentially hazardous chemicals. What personal protective equipment (PPE) should they wear to minimize the risk of exposure?",
+    "options": [
+      "Safety goggles and gloves",
+      "Lab coat and closed-toe shoes",
+      "Face shield and respirator",
+      "Hairnet and apron",
+      "Earplugs and safety vest"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Situation: During a microscopy session, a researcher needs to observe the internal structures of living cells in real-time. Which type of microscope should they use for this purpose?",
+    "options": [
+      "Transmission electron microscope",
+      "Confocal microscope",
+      "Scanning electron microscope",
+      "Dark-field microscope",
+      "Phase-contrast microscope"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A laboratory assistant accidentally cuts their hand while handling glassware. What is the appropriate first aid response to this situation?",
+    "options": [
+      "Wash the wound with soap and water, then apply an antiseptic and bandage",
+      "Ignore the cut and continue working",
+      "Apply a tourniquet above the wound to stop bleeding",
+      "Use an alcohol swab to clean the wound",
+      "Rinse the wound with saline solution"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A microbiology student is tasked with observing the surface structures of bacterial cells. Which microscope would be most suitable for this purpose?",
+    "options": [
+      "Scanning electron microscope",
+      "Compound microscope",
+      "Fluorescence microscope",
+      "Phase-contrast microscope",
+      "Dark-field microscope"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A laboratory is conducting experiments involving the use of radioactive materials. What precautionary measures should be taken to ensure the safety of personnel?",
+    "options": [
+      "Use lead aprons and gloves",
+      "Limit access to authorized personnel only",
+      "Conduct experiments in a designated radiation-safe area",
+      "Monitor radiation exposure levels regularly",
+      "All of the above"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "A microbiologist needs to visualize the movement of live microorganisms in a liquid medium. Which type of microscope would be most appropriate for this task?",
+    "options": [
+      "Electron microscope",
+      "Compound microscope",
+      "Dark-field microscope",
+      "Phase-contrast microscope",
+      "Fluorescence microscope"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What staining technique involves using only one dye to color bacterial cells?",
+    "options": [
+      "Differential staining",
+      "Gram staining",
+      "Acid-fast staining",
+      "Simple staining",
+      "Counterstaining"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is NOT a step in the Gram staining procedure?",
+    "options": [
+      "Application of crystal violet",
+      "Decolorization with alcohol or acetone",
+      "Application of safranin",
+      "Application of iodine",
+      "Application of malachite green"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What is the purpose of an immersion oil in microscopy?",
+    "options": [
+      "To increase the magnification of the specimen",
+      "To enhance contrast between the specimen and the background",
+      "To protect the objective lens from damage",
+      "To prevent evaporation of the specimen",
+      "To improve resolution by reducing light scattering"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Which of the following techniques is commonly used to prepare a bacterial smear on a glass slide?",
+    "options": ["Streaking", "Looping", "Swabbing", "Pouring", "Spreading"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary purpose of identifying microorganisms in a laboratory setting?",
+    "options": [
+      "To determine their pathogenicity",
+      "To classify them taxonomically",
+      "To assess their antibiotic susceptibility",
+      "To investigate their ecological role",
+      "All of the above"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Situation: A microbiologist needs to prepare a bacterial smear from a liquid culture for microscopic examination. Which of the following techniques would be most appropriate for smear preparation in this case?",
+    "options": ["Streaking", "Looping", "Pouring", "Swabbing", "Spreading"],
+    "answer": 1
+  },
+  {
+    "question": "A laboratory technician is tasked with identifying an unknown bacterial species isolated from a clinical specimen. Which of the following methods would be the most reliable for accurate identification?",
+    "options": [
+      "Gram staining",
+      "Acid-fast staining",
+      "Simple staining",
+      "Differential staining",
+      "Counterstaining"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A student is using an immersion microscope to observe a bacterial culture. However, they forgot to use immersion oil. What effect would this have on their observations?",
+    "options": [
+      "The image will appear blurred",
+      "The image will appear smaller than actual size",
+      "The image will lack contrast",
+      "The image will appear distorted",
+      "The image will not be affected"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A microbiologist is performing a simple staining procedure to visualize bacterial morphology. Which of the following dyes would be most suitable for this purpose?",
+    "options": [
+      "Crystal violet",
+      "Safranin",
+      "Carbolfuchsin",
+      "Methylene blue",
+      "Congo red"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A laboratory technician needs to prepare a smear from a solid agar culture. Which of the following techniques should they use for smear preparation?",
+    "options": ["Streaking", "Looping", "Pouring", "Swabbing", "Spreading"],
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is NOT a characteristic shape of bacteria?",
+    "options": ["Bacillus", "Coccus", "Spiral", "Cuboid", "Vibrio"],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary structural component of fungal cell walls?",
+    "options": [
+      "Chitin",
+      "Peptidoglycan",
+      "Lipopolysaccharide",
+      "Cellulose",
+      "Glycocalyx"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which intracellular parasite is responsible for causing Rocky Mountain spotted fever?",
+    "options": ["Rickettsia", "Mycoplasma", "Chlamydia", "Protozoa", "Virus"],
+    "answer": 0
+  },
+  {
+    "question": "What is the typical shape of Chlamydia trachomatis under a microscope?",
+    "options": [
+      "Rod-shaped",
+      "Spiral",
+      "Cocci",
+      "Pleomorphic",
+      "Obligate intracellular parasite"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is an example of a virus with a helical capsid?",
+    "options": [
+      "Influenza virus",
+      "Herpes simplex virus",
+      "Adenovirus",
+      "Human papillomavirus",
+      "Hepatitis B virus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the term used to describe fungi that exist as single-celled organisms?",
+    "options": ["Hyphae", "Mycelium", "Yeast", "Mold", "Spore"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following bacterial shapes is characterized by a twisted or spiral shape?",
+    "options": ["Coccus", "Bacillus", "Vibrio", "Spirillum", "Diplococcus"],
+    "answer": 3
+  },
+  {
+    "question": "Which protozoan parasite causes malaria?",
+    "options": [
+      "Giardia lamblia",
+      "Plasmodium",
+      "Trypanosoma cruzi",
+      "Leishmania",
+      "Entamoeba histolytica"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the typical size range of most bacteria?",
+    "options": [
+      "0.5-1 micrometer",
+      "1-10 micrometers",
+      "10-100 micrometers",
+      "100-500 micrometers",
+      "500-1000 micrometers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following fungal structures is responsible for reproduction and dispersal of spores?",
+    "options": ["Mycelium", "Hyphae", "Sporangium", "Conidia", "Ascus"],
+    "answer": 3
+  },
+  {
+    "question": "A microbiologist is observing a Gram-stained smear under a microscope and notices clusters of spherical bacteria arranged in irregular clusters. What is the likely morphology of these bacteria?",
+    "options": ["Diplococci", "Streptococci", "Staphylococci", "Bacilli", "Vibrios"],
+    "answer": 2
+  },
+  {
+    "question": "A medical laboratory receives a specimen suspected to contain Chlamydia trachomatis. Which staining method would be most appropriate for visualizing this intracellular parasite?",
+    "options": [
+      "Gram staining",
+      "Acid-fast staining",
+      "India ink staining",
+      "Giemsa staining",
+      "Ziehl-Neelsen staining"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A veterinary clinic encounters a case of cutaneous mycosis in a dog. Upon examination under a microscope, the veterinarian observes septate hyphae with conidiophores and conidia. Which fungal genus is most likely responsible for this infection?",
+    "options": ["Candida", "Aspergillus", "Cryptococcus", "Trichophyton", "Mucor"],
+    "answer": 1
+  },
+  {
+    "question": "A researcher is studying the morphology of a newly discovered protozoan parasite. Upon examination under a microscope, the researcher observes a single, elongated cell with a flagellum at one end. What is the likely classification of this parasite?",
+    "options": ["Amoeba", "Ciliate", "Flagellate", "Apicomplexan", "Sporozoan"],
+    "answer": 2
+  },
+  {
+    "question": "A microbiology student is preparing a wet mount of a bacterial culture for observation under a microscope. After staining, the student notices elongated, rod-shaped bacteria with rounded ends. What is the term for this bacterial morphology?",
+    "options": ["Cocci", "Diplococci", "Bacilli", "Spirochetes", "Vibrios"],
+    "answer": 2
+  },
+  {
+    "question": "How can bacterial capsules be visualized under a microscope?",
+    "options": [
+      "By staining with crystal violet",
+      "By performing a negative stain",
+      "By using the Schaeffer-Fulton method",
+      "By staining with safranin",
+      "By using the Ziehl-Neelsen method"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary function of bacterial endospores?",
+    "options": [
+      "Energy storage",
+      "Reproduction",
+      "Protection against adverse conditions",
+      "Facilitating cellular respiration",
+      "Synthesizing proteins"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which staining method is commonly used to detect the presence of acid-fast bacteria such as Mycobacterium tuberculosis?",
+    "options": [
+      "Gram staining",
+      "Schaeffer-Fulton staining",
+      "Ziehl-Neelsen staining",
+      "India ink staining",
+      "Capsule staining"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following inclusions is associated with the storage of phosphate in bacterial cells?",
+    "options": [
+      "Metachromatic granules",
+      "Sulfur granules",
+      "Glycogen granules",
+      "Magnetosomes",
+      "Lipid droplets"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What cellular structure enables bacterial motility?",
+    "options": ["Capsule", "Cell wall", "Pili", "Flagella", "Ribosomes"],
+    "answer": 3
+  },
+  {
+    "question": "Situation: A microbiologist is examining a Gram-stained bacterial smear and notices red-stained structures within some cells. What is the likely explanation for this observation?",
+    "options": [
+      "Presence of endospores",
+      "Presence of capsules",
+      "Presence of volutin granules",
+      "Presence of flagella",
+      "Presence of gas vacuoles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A laboratory technician is performing a motility test on a bacterial culture by inoculating a semisolid medium. After overnight incubation, the technician observes diffuse growth throughout the medium. What does this result indicate?",
+    "options": [
+      "Positive motility",
+      "Negative motility",
+      "Positive catalase activity",
+      "Negative catalase activity",
+      "Positive oxidase activity"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A researcher is studying the morphology of bacterial cells and notices metachromatic granules within some of the cells. What is the likely function of these granules?",
+    "options": [
+      "Energy storage",
+      "Protection against osmotic pressure",
+      "Nitrogen fixation",
+      "DNA synthesis",
+      "Oxygen transport"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A medical laboratory receives a clinical specimen suspected to contain acid-fast bacteria. Which staining method should be used to confirm the presence of these bacteria?",
+    "options": [
+      "Gram staining",
+      "Schaeffer-Fulton staining",
+      "Capsule staining",
+      "Endospore staining",
+      "Ziehl-Neelsen staining"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "A microbiology student is examining a bacterial culture under a microscope and notices transparent halos around some of the cells. What is the likely explanation for these halos?",
+    "options": [
+      "Presence of endospores",
+      "Presence of capsules",
+      "Presence of volutin granules",
+      "Presence of flagella",
+      "Presence of gas vacuoles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Autotrophic bacteria are those which",
+    "options": [
+      "make their own food",
+      "form a long chain glycocalyx",
+      "are highly susceptible to penicillin",
+      "produce a blue-green pigment",
+      "non of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When a substance is added to a solid medium which inhibits the growth of unwanted bacteria but permits the growth of wanted bacteria, it is known as:",
+    "options": [
+      "Selective medium",
+      "Enrichment medium",
+      "Enriched medium",
+      "Differential medium",
+      "nutrient medium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "All organisms require at least small amounts of carbondioxide, However, some can use CO2 as their sole source of carbon, Such organisms are termed as",
+    "options": ["Autotrophs", "Phototrophs", "Chemotrophs", "Photo-organotrophs", "parasites"],
+    "answer": 0
+  },
+  {
+    "question": "The average size of cells during the exponential phase of growth is",
+    "options": [
+      "greater than the lag phase",
+      "lesser than the lag phase",
+      "equal to the lag phase",
+      "none of these",
+      "all of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following organisms typically get their carbon for biosynthesis from organic compound",
+    "options": [
+      "Aerobic, glucose-respiring bacteria (aerobic respiration)",
+      "Ammonia-oxidizing bacteria (chemolithotrophic bacteria)",
+      "Photosynthetic cyanobacteria (phototrophic metabolism)",
+      "none of these",
+      "all of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quantitative measurement of bacterial growth can be carried out by measuring",
+    "options": ["cell count", "cell mass", "cell activity", "all of these", "non of these"],
+    "answer": 3
+  },
+  {
+    "question": "After 3-4 weeks of cultivation on Lowenstein-Jensen medium under aerobic conditions, cream-colored R-form colonies were obtained. What bacteria produce such colonies on this medium?",
+    "options": [
+      "Vibrio cholerae",
+      "S. aureus",
+      "St. pneumoniae",
+      "E. coli",
+      "M. tuberculosis"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "A culture was started by inoculating the medium with 100 cells having a generation time of 2 hours. Assuming the culture grows in ideal synchrony for at least 24 hours, what will be the number of cells in the culture at 2 hours and 9 hours?",
+    "options": [
+      "2.0×10² cells, 1.6 × 10³ cells, respectively",
+      "2.0×10² cells, 2.4 × 10³ cells, respectively",
+      "2.0×10² cells, 3.2 × 10³ cells, respectively",
+      "2.0×10² cells, 4.6 × 10³ cells, respectively",
+      "2.0×10² cells, 5.6 × 10³ cells, respectively"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For bacterial growth, a single cell elongates in size before it divides into two, in a process called binary fission. During cell grows,",
+    "options": [
+      "new peptidoglycan synthesis is required along with the hydrolysis of bonds linking the old peptidoglycan chains",
+      "new peptidoglycan synthesis is required but no hydrolysis of the old peptidoglycan occurs",
+      "the old peptidoclycan is completely degraded and replaced with the newly synthesized longer polymer",
+      "newly sinthesyzed peptidoglycan is utilized to deposit a new layer of the peptidoclycan in the cell wall",
+      "nothing happens"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are functions of water in the culture medium?",
+    "options": [
+      "nutrients must be in aqueous solution",
+      "cofactor of enzymes",
+      "provides resistance to sudden transient temperature changes",
+      "it is a chemical reactant, nutrients must also be present in aqueous solution and provide resistance to sudden temperature changes",
+      "all of these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A microorganism that grows either in the presence or absence of free oxygen is known as a/an",
+    "options": [
+      "obligate aerobe",
+      "facultative anaerobe",
+      "anaerobe",
+      "parasite",
+      "obligate anerobes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which is the process in which oxygen participates in an energy-yielding reaction?",
+    "options": ["Anabolism", "Catabolism", "Anaerobic respiration", "Aerobic respiration", "osmotolerant"],
+    "answer": 3
+  },
+  {
+    "question": "Microaerophilic bacteria are those which require",
+    "options": [
+      "21 % oxygen for growth",
+      "low levels of oxygen for growth (lesser than O2 present in atmosphere)",
+      "oxygen for activation of enzymes",
+      "is killed by oxygen",
+      "prefers to grow without oxygen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In aerobic respiration, the terminal electron acceptor is",
+    "options": ["oxygen", "nitrogen", "hydrogen", "nitrate", "carbohydrate"],
+    "answer": 0
+  },
+  {
+    "question": "The microorganisms that grow best in a low-oxygen environment is called a (n)",
+    "options": ["aerobe", "anaerobe", "facultative aerobes", "facultative anaerobes", "microaerophile"],
+    "answer": 3
+  },
+  {
+    "question": "A culture broth tube was very turbid at the surface but clear throughout the rest of the tube indicating that the",
+    "options": [
+      "organism are aerobes",
+      "organism should be grown in an anaerobic chamber",
+      "organism cannot produce superoxide dismutase and/or catalase",
+      "organism cannot tolerate oxygen",
+      "All of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "An organism is completely dependent on atmospheric O2 for growth. This organism is",
+    "options": ["osmotolerant", "acidophile", "facultative anaerobe", "obligate aerobe", "Chemotrophs"],
+    "answer": 3
+  },
+  {
+    "question": "The term obligate anaerobe refers to an organism that",
+    "options": [
+      "doesn't use oxygen but tolerates it",
+      "is killed by oxygen",
+      "uses oxygen when present or grows without oxygen when oxygen is absent",
+      "prefers to grow without oxygen",
+      "grows either in the presence or absence of free oxygen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bacteria that cannot live in the presence of air are known as",
+    "options": ["aerobes", "facultative anaerobes", "obligate anaerobes", "microaerophilics", "anaerobe"],
+    "answer": 2
+  },
+  {
+    "question": "This type of organism will use oxygen if it is present, but when oxygen in lacking they can grow by fermentation.",
+    "options": ["Obligate aerobes", "Microaerophiles", "Facultative anaerobes", "Obligate anaerobes", "aerobes"],
+    "answer": 2
+  },
+  {
+    "question": "What conditions are necessary for cultivating anaerobic bacteria:",
+    "options": [
+      "presence of 10% carbon dioxide in the air",
+      "no oxygen in the air",
+      "presence of 5% oxygen in the air",
+      "complete lack of lighting",
+      "presence of nitrogen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A culture broth tube was very turbid at the surface but clear throughout the rest of the tube. What indicates this?",
+    "options": [
+      "organism are aerobes",
+      "organism should be grown in an anaerobic chamber",
+      "organism cannot produce superoxide dismutase and/or catalase",
+      "organism cannot tolerate oxygen",
+      "All of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If a canning procedure is not properly followed, which type of microbe is most likely to grow in the canned food?",
+    "options": [
+      "Obligate Aerobe",
+      "Acidophilic",
+      "Mesophilic",
+      "Obligate Anaerobe",
+      "facultative anaerobes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The term facultative anaerobe refers to an organism that",
+    "options": [
+      "doesn't use oxygen but tolerates it",
+      "is killed by oxygen",
+      "uses oxygen when present or grows without oxygen when absent",
+      "requires less oxygen than is present in air",
+      "prefers to grow with oxygen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "By respiratory type microorganisms divided into",
+    "options": [
+      "obligate anaerobes;",
+      "obligate anaerobes and facultative anaerobes;",
+      "obligate and facultative anaerobes, obligate aerobes;",
+      "obligate and facultative anaerobes, obligate aerobes, microaerophilic;",
+      "anaerobes, obligate aerobes, microaerophilic;"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Methods for isolating pure aerobic culture related to",
+    "options": ["Fortner's method", "Koch method", "Peretz method", "Zeissler method", "Candle-jar method"],
+    "answer": 1
+  },
+  {
+    "question": "Biological method for creating anaerobic conditions",
+    "options": [
+      "using anaerostat;",
+      "using a desiccator and oxygen reducers;",
+      "co-cultivation of aerobes with anaerobes;",
+      "special mediums for anaerobes;",
+      "using a desiccator and oxygen adsorbents;"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "For cultivation of anaerobes used special culture media, because anaerobes grow without oxygen, so which of the following culture medium is used for cultivation of anaerobic microorganisms?",
+    "options": [
+      "Ploskirev's and Kitta-Tarozzi mediums ;",
+      "Kitta-Tarozzi medium and Wilson-Blair;",
+      "Wilson-Blair medium and meat and peptone broth;",
+      "meat and peptone broth and Ploskirev's medium;",
+      "Mackonkey agar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "To cultivate anaerobic microorganisms, anaerobic conditions for growth must be created. To create anaerobic conditions, the following methods are used:",
+    "options": [
+      "the use of an aerostat",
+      "Fortner's technique",
+      "the Vignal-Veyon technique",
+      "Zeissler technique",
+      "Koch method"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Select the medium used for cultivating anaerobes:",
+    "options": [
+      "MacConkey agar",
+      "peptone water",
+      "Kitt-Tarozzi medium",
+      "yolk salt agar",
+      "Clauberg agar"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When cultivated on Ploskirev's medium in the feces of a patient with suspected intestinal infection, many colorless colonies and single pink colonies were obtained. What bacteria form such colonies on this medium?",
+    "options": ["Shigellae", "Vibrio cholerae", "Salmonella", "Staphylococcus", "E. coli"],
+    "answer": 4
+  },
+  {
+    "question": "Which combination of data is required to plot the conventional growth curve of bacteria?",
+    "options": [
+      "Log of number of living bacteria versus time",
+      "Log of number of living and dead bacteria versus time",
+      "Log of number of generations versus time",
+      "Log of generation time versus time",
+      "Log of number of dead bacteria versus time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the necessary step for cultivating the microorganisms?",
+    "options": [
+      "Preparing a culture medium for the growth of microorganisms",
+      "Sterilizing in order to eliminate all living microorganisms in vessel",
+      "Inoculating the microorganisms in the prepared medium",
+      "All of the these",
+      "Non of the these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following method can be used to determine the number of bacteria quantitatively?",
+    "options": ["Streak-plate", "Spread-plate", "Pour plate", "Pour-plate and spread plate", "Roll-tube technique"],
+    "answer": 3
+  },
+  {
+    "question": "Nichrome loop wire is used in which of the following techniques?",
+    "options": ["Streak-plate", "Spread-plate", "Pour-plate", "Roll-tube technique", "All of the these"],
+    "answer": 0
+  },
+  {
+    "question": "Catalase production is negative in:",
+    "options": ["Staphylococcus", "Streptococcus", "Proteus", "Salmonella", "Serratia"],
+    "answer": 1
+  },
+  {
+    "question": "The Reactive Oxygen Species(ROS) poduced by some bacteria are degraded by which of the following enzymes?",
+    "options": [
+      "Peroxidase",
+      "Lyase",
+      "Catalase",
+      "Superoxide dismutase, Catalase and Peroxidase",
+      "Coagulase"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Among the following which is positive for coagulase test?",
+    "options": [
+      "Staphylococcus aureus",
+      "Staphylococcus epidermidis",
+      "Staphylococcus saprophyticus",
+      "St. pneumonia",
+      "St. viridans"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The coagulase is done to differentiate",
+    "options": [
+      "Staphylococcus aureus from Staphylococcus epidermidis",
+      "Staphylococcus epidermidis from Neisseria meningitidis",
+      "Streptococcus pyogenes from Enterococcus faecalis",
+      "Streptococcus pyogenes from Staphylococcus aureus",
+      "Staphylococcus aureus from Streptococcus viridans"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Catalase production is negative in:",
+    "options": ["Staphylococcus", "Streptococcus", "Proteus", "Salmonella", "E.coli"],
+    "answer": 1
+  }
+]
