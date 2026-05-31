@@ -1,0 +1,712 @@
+[
+  {
+    "question": "A 25 years old female complains of recurrent rhinitis, nasal discharge and bilateral nasal blockage since 2 years. She has history of asthma and allergy. On examination multiple ethmoidal polyps are noted with mucosal thickening and impacted secretions in both the nasal cavities. Biopsy is taken and the material is cultured which shown the growth of many hyphae and pseudhohyphae with dichotomous branching typically at 45°. Which of the following is the most likely responsible organism?",
+    "options": [
+      "Aspergillus fumigatus",
+      "Rhizopus",
+      "Mucor",
+      "Candida",
+      "Aspergilus flavus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a patient, corneal scraping reveals narrow angled septate hyphae, which of the following is likely etiologic agent:",
+    "options": ["Mucor", "Aspergillus", "Histoplasma", "Candida", "Fusarium"],
+    "answer": 1
+  },
+  {
+    "question": "In a patient, corneal scraping reveals narrow angled septate hyphae. Which of the following is the likely etiologic agent :",
+    "options": ["Mucor", "Aspergillus", "Histoplasma", "Candida", "Rhizopus"],
+    "answer": 1
+  },
+  {
+    "question": "Drugs used in treatment of Aspergillosis",
+    "options": ["Itraconazole", "Voriconazole", "Clotrimazole", "Amphotericin B", "Cotrimoxazole"],
+    "answer": 0
+  },
+  {
+    "question": "In HIV infected individual Gram stain of lung aspirate shows yeast like morphology. All of the following are the most likely diagnosis except:",
+    "options": [
+      "Candida tropicalis",
+      "Cryptococcus neoformans",
+      "Pencillium marneffi",
+      "Aspergillus fumigatus",
+      "Pneumocystis carinii"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mucor mycosis:",
+    "options": [
+      "Angio-invasion",
+      "Lymph invasion",
+      "Septate hyphae",
+      "Long term deferoxamine therapy is predisposing factor",
+      "Spreads in neonates through care giver's hands"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A Diabetic patient suffers from a soft tissue infection and microbiological examination reveal the infection been caused by with fungi with aseptate and broad hyphae. Which of the following fungus is responsible for this infection?",
+    "options": ["Candida", "Aspergillus", "Pencillium", "Apophysomyces", "Histoplasma"],
+    "answer": 3
+  },
+  {
+    "question": "True about mucormycosis is:",
+    "options": [
+      "Nose is a common site",
+      "Diabetics is common predisposing factor",
+      "Common in India",
+      "All of these",
+      "Affects the lungs after inhaling spores"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Dermatophytosis is caused by :",
+    "options": ["Herpes simplex", "Papilloma virus", "Trichophyton", "Candida", "Aspergillus"],
+    "answer": 2
+  },
+  {
+    "question": "Orbital mucormycosis is a complication of:",
+    "options": ["AIDS", "Steroid therapy", "Cushing's disease", "Diabetic ketoacidosis", "Meningitis"],
+    "answer": 3
+  },
+  {
+    "question": "An early diabetic has left sided orbital cellulitis CT scan of paranasal sinus shows evidence of left maxillary sinusitis. Gram stained smear of the orbital exudate shows irregularly branching septate hyphae. The following is most likely etiological agent:",
+    "options": ["Aspergillus", "Rhizopus", "Mucor", "Candida", "Histoplasma"],
+    "answer": 0
+  },
+  {
+    "question": "Mucor is best described by which of the following statements?",
+    "options": [
+      "Widespread in environment; conidia may be inhaled; microscopic appearance in specimen reveals dichotomous branching and septate hyphae",
+      "Round, black sporangia filled with endospores; sporangia unbranched, rising from a runner called a stolon",
+      "Single-tipped sporangiophores; no rhizoids or stolons; nonseptate hyphae, which show branching",
+      "Yeast forms with budding blastoconidia often showing pseudohyphae; positive germ tube test; chlamydospores present",
+      "Yeast forms with budding blastoconidia often showing pseudohyphae; positive germ tube test; chlamydospores present"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There are three genera of dermatophytes: Epidermophyton, Microsporum, and Trichophyton. Infections caused by dermatophytoses, are",
+    "options": [
+      "Marked by alveolar irritation",
+      "Characterized by aflatoxin-induced hallucinations",
+      "Confined to keratinized tissues",
+      "Rarely associated with chronic lesions",
+      "Easily treatable with penicillin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following dermatophyte genus is capable of invading the hair, skin, and nails?",
+    "options": ["Candida", "Epidermophyton", "Microsporum", "Trichophyton", "Histoplasma"],
+    "answer": 3
+  },
+  {
+    "question": "Dermatophytes are fungus which:",
+    "options": [
+      "Require complex growth media",
+      "Invariably invade the sub cutaneous tissue",
+      "Cause in apparent systemic infections",
+      "Live in superficial keratinized area of the body -the skin-hair and nail",
+      "The primary pathogenic fungus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sclerotic bodies are found in:",
+    "options": ["Rhinosporidiosis", "Histoplasmosis", "Coccidiomycosis", "Chromoblastomycosis", "Sporothrix"],
+    "answer": 3
+  },
+  {
+    "question": "True about Histoplasma capsulatum:",
+    "options": [
+      "Dimorphic fungus",
+      "Causative organism of moniliasis",
+      "Causative organism of valley fever",
+      "Capsulated",
+      "Sclerotic bodies are found"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Blastomycosis is characterized by all, except :",
+    "options": [
+      "Yeast like fungus",
+      "Fungal infection caused by Blastomyces dermatitidis",
+      "Dimorphic fungus",
+      "Common in South America",
+      "It presents as a pulmonary infection after the inhalation of spores"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Darling disease is caused by:",
+    "options": ["Histoplasma", "Candida", "Cryptococcus", "Rhizopus", "Nocardia"],
+    "answer": 0
+  },
+  {
+    "question": "Endemic fungal infection",
+    "options": ["Coccidioides immitis", "Cryptococcus", "Histoplasmosis", "Aspergillus", "Rhinosporidiosis"],
+    "answer": 0
+  },
+  {
+    "question": "Microscopically, at 25-30 degrees celsius, ______ produces delicate, thin septate and branching hyphae that are hyaline. Slender, tapering conidiophores arise at right angles to the hyphae that bear many small tear-shaped or almost round conidia on delicate threadlike denticles forming a \"rosette-like\" cluster in young cultures; conidia also form singly along the hyphae. At 35-37 degrees celsius, round, oval and fusiform budding cells of various sizes often called \"cigar bodies\" are seen. What dimorphic fungi am I describing?",
+    "options": [
+      "Sporothrix schenckii",
+      "Histoplasma capsulatum",
+      "Blastomyces dermatitidis",
+      "Paracoccidioides brasiliensis",
+      "Penicillium marneffei"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is true about Histoplasmosis:",
+    "options": [
+      "In early stages it is indistinguishable from TB",
+      "Blood culure is not diagnostic",
+      "Hyphal forms are infectious form",
+      "Person to person spread occurs by droplet infection",
+      "Infectious forms have not been identified"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The following fungi are thermally dimorphic except:",
+    "options": [
+      "Sporothrix schenkii",
+      "Cryptococcus neoformains",
+      "Blastomycosis dermatidis",
+      "Histoplasma capsulatum",
+      "Penicillium marneffei"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "All of the following regarding histoplasmosis are true except :",
+    "options": [
+      "Very rare in patients with AIDS",
+      "Bone marrow is involved",
+      "Gomori methamine silver stain used",
+      "Dimorphic fungus",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are difficult to isolate from culture :",
+    "options": ["Candida", "Dermatophytes", "Cryptococcus", "Malassezia furfur", "Trichophyton"],
+    "answer": 3
+  },
+  {
+    "question": "A 32-y.o.female farmer presented to physician with a 3-week complaint of a low-grade fever, myalgias, a productive cough, and a skin lesion that developed during the previous week. Found an infiltrate on chest x-ray and collected sputum and a biopsy of the lesion. Faint-staining, large round cells, some with budding cells, were observed on the Gram stain and silver stain of the biopsy material and the etiologic agent grew in culture after 2 weeks. The most likely diagnosis is:",
+    "options": [
+      "Blastomyces dermatitidis",
+      "Candida albicans",
+      "Histoplasma capsulatum",
+      "Mycobacterium marinum",
+      "Sporothrix schenckii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 45-y.o.woman presented to physician,she had several sores on her arm that had developed during the previous 2 weeks. The physician noted that the sores were ulcerative nodular lesions that followed the lymphatic system up her arm. Her axillary nodes were also enlarged. A specimen was aspirated from one of the lesions and a few oval, fusiform yeast cells were observed in culture. A slow-growing white mold grew in the fungal cultures of the lesions and the colonies gradually turned black. Which organism is responsible for this woman's infection?",
+    "options": [
+      "Blastomyces dermatitidis",
+      "Candida albicans",
+      "Cryptococcus neoformans",
+      "Sporothrix schenckii",
+      "Trichophyton rubrum"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A young man aged 30 years, presents with difficulty in vision in the left eye for the last 10 days. He is immunocompetent, a farmer by occupation, comes from a rural community and gives history of trauma to his left eye with vegetative matter 10-15 days back. On examinations, there is an ulcerative lesion in the cornea, whose base has raised soft creamy infiltrate. Ulcer margin is feathery and hyphae. Branching aspetate hyphae were noted. There are a few satellite lesions also. Corneal scrapping shows sickle shaped macro conidia. What should be the probable diagnosis?",
+    "options": ["Fusarium", "Aspergillus", "Mucormycosis", "Dermatophytes", "Candidiasis"],
+    "answer": 0
+  },
+  {
+    "question": "How many weeks should Blastomyces dermatitidis be held before being discarded as negative.",
+    "options": ["8", "4", "6", "2", "10"],
+    "answer": 0
+  },
+  {
+    "question": "This organism forms \"rosette-like\" cluster in young cultures; conidia also form singly along the hyphae. At 35-37 degrees, round, oval and fusiform budding cells of various sizes often called, \"cigar bodies\" are seen.",
+    "options": [
+      "Sporothrix schenckii",
+      "Histoplasma capsulatum",
+      "Blastomyces dermatitidis",
+      "Paracoccidioides brasiliensis",
+      "Penicillium marneffei"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The capsule of Cryptococcus neoformans in a CSF sample is best seen by :",
+    "options": ["Gram`s stain", "Indian ink preparation", "Giemsa stain", "Methanamine silver stain", "Acid fast stain"],
+    "answer": 1
+  },
+  {
+    "question": "Which is false regarding Cryptococcus neoformans:",
+    "options": [
+      "Grows at 50° C and 370° C",
+      "It has 4 serotypes",
+      "Urease negative",
+      "Causes superficial skin infection",
+      "Fungus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cryptococcus is least likely to cause infection of:",
+    "options": ["Skin", "Bone", "Brain", "Kidney", "Central nervous system"],
+    "answer": 3
+  },
+  {
+    "question": "Endemic fungal infection is caused is by all of the following except :",
+    "options": ["Coccidiodes immitus", "Cryptococcus", "Penicillium", "Aspergillus", "None of these"],
+    "answer": 1
+  },
+  {
+    "question": "Candida albicans is noteworthy as the etiological agent of:",
+    "options": ["Thrush", "Valley fever", "Desert fever", "Rheumatic fever", "Diabetes"],
+    "answer": 0
+  },
+  {
+    "question": "HIV positive female presents with an indurated ulcer over the tongue Laboratory findings show growth in cornmeal agar at 20°C, microscope by showing hyphae and growth in human serum at 370C show budding yeast Probable cause is :",
+    "options": [
+      "Candida albicans",
+      "Histoplasmosis",
+      "Blastomycosis",
+      "Coccidioidomycosis",
+      "Aspergillus fumigates"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Pneumocystis carini is a fungus because :",
+    "options": [
+      "RRNA, mitochondrial protein gene sequence and presence thymiylate synthase",
+      "Cell wall contains glucans",
+      "Antifungals are effective against P. carini",
+      "Commonest infection in AIDS",
+      "All of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A farmer presents with multiple discharging sinuses in the leg not responding to antibiotics: Most likely diagnosis is",
+    "options": ["Madurella", "Actino-mycetoma", "Nocardia", "Sporothrix", "Actinomycetoma"],
+    "answer": 0
+  },
+  {
+    "question": "Pneumocystis carinii is diagnosed by",
+    "options": ["Silver nitrate staining", "Leishmann staining", "Fontana staining", "Acid fast staining", "Albert staining"],
+    "answer": 0
+  },
+  {
+    "question": "Cryptoccoccal meningitis is common in",
+    "options": ["Renal transplant recipient", "Agammaglobulinemia", "Neutropenia", "IgA deficiency", "All of these"],
+    "answer": 0
+  },
+  {
+    "question": "The mature cyst of Entamoeaba histolytica differs from Entamoeba coli, in the following, except",
+    "options": [
+      "Nuclei are 1 to 4 in number",
+      "Size is 6 to 15 microns",
+      "Karyosome is central in position",
+      "4 nuclei",
+      "None of these"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Fulminant Amoeba meningoencephalitis caused by",
+    "options": ["Acanthamoeba", "N. folwler", "E. histolytica", "E. coli", "C. parvum"],
+    "answer": 0
+  },
+  {
+    "question": "Drugs of choice in Giardiasis is",
+    "options": ["Metronidazole/Tinidazole", "Albendazole", "Thiabendazole", "Diloxanide furoate", "Doxycycline"],
+    "answer": 0
+  },
+  {
+    "question": "Each of the following statements concerning Trichomonas vaginalis is correct, except:",
+    "options": [
+      "T.vaginalis causes bloody diarrhea",
+      "T.vaginalis is transmitted sexually",
+      "T.vaginalis can be diagnosed by visualizing the trophozoite",
+      "T.vaginalis may be transmitted vertically to newborns",
+      "T.vaginalis can be treated effectively with metronidazole"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Each of the following statements concerning Giardia lamblia is correct except:",
+    "options": [
+      "G. lamblia causes hemolytic anemia",
+      "G. lamblia has both a trophozoite and cyst stage in its life cycle",
+      "G. lamblia is transmitted by the fecal-oral route from both human and animal sources",
+      "G. lamblia can be diagnosed by the string test",
+      "G. lamblia is a major cause of parasite-induced diarrheal disease."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which one of the following does not pass through the lungs",
+    "options": ["Hookworm", "Ascaris", "Strongyloidis", "Enterobius Vermicularis", "Plasmodium.malaria"],
+    "answer": 4
+  },
+  {
+    "question": "Which of the following disease is transmitted by egg ingestion :",
+    "options": ["Taeniasis", "Trichinosis", "Hydatidosis", "Strongyloidosis", "Leishmania donovani"],
+    "answer": 2
+  },
+  {
+    "question": "All the following are True about Brugia malayi, except",
+    "options": [
+      "The intermediate hosts in the India are Mansoni",
+      "The tail tip is free from nuclei",
+      "Nuclei are blurred, so counting is difficult",
+      "Adult worm is found in the lymphaitc system",
+      "Nematode"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the most common location of intracranial neurocysticerosis ?",
+    "options": ["Brain parenchyma", "Subarachnoid space", "Spinal cord", "Orbit", "The ventricles"],
+    "answer": 0
+  },
+  {
+    "question": "On microscopic examination eggs are seen, but on saturation with salt solution no eggs are seen, The eggs are likely to be of",
+    "options": ["Trichuris trichura", "Taenia solium", "Ascaris lumbricoides", "Ancylostoma duodenale", "T. Solium"],
+    "answer": 1
+  },
+  {
+    "question": "A patient present with diarrhoea. Analysis of stool on wet mount shows mobile protozoa without RBCs and pus cells. the Diagnosis is",
+    "options": ["Balantidium coli", "Giardiasis", "Trichomonas hominis", "Entamoeba histolytica", "Ascaris"],
+    "answer": 1
+  },
+  {
+    "question": "A 30 year old patient treated with features of acute meningoencephalitis in casualty. His CSF on wet mount microscopy revealed motile unicellular microorganisms. The most likely organism is",
+    "options": [
+      "Naegleria fowleri",
+      "Acanthamoeba castellani",
+      "Entamoeba histolytica",
+      "Trypanosoma cruzi",
+      "Echinococcus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A patient following use of contact lens, developed corneal ulcers and symptoms of conjunctivitis. Saline mount preparation of corneal scrapping shows polygonal cyst. What should be the probable diagnosis?",
+    "options": ["Acanthamoeba", "Naegleria", "Entamoeba", "Giardia", "Ascaris"],
+    "answer": 0
+  },
+  {
+    "question": "An anxious mother brought her 4 year old daughter to the pediatrician. The girl was passing loose bulky stools for the past 20 days. This was often associated with pain in abdomen. The pediatrician ordered the stool examination, which showed the following organisms. Identify the organism",
+    "options": ["Entamoeba histolytica", "Giardia lamblia", "Cryptosporidium", "E.coli", "Trichinella"],
+    "answer": 1
+  },
+  {
+    "question": "Vaginal discharge of Trichomonas vaginalis vaginitis is",
+    "options": ["Thin & watery", "Greenish frothy", "Curd- white", "Blood- stained", "Has no smell"],
+    "answer": 1
+  },
+  {
+    "question": "Pancreatic Ca is caused by",
+    "options": ["Fasciola", "Clonorchis", "Paragonimus", "Ascaris", "None of these"],
+    "answer": 4
+  },
+  {
+    "question": "A woman delivered a dead child with multiple developmental defects. What protozoan disease might have caused the intrauterine death?",
+    "options": ["Toxoplasmosis", "Leishmaniasis", "Malaria", "Amebiasis", "Lambliasis"],
+    "answer": 0
+  },
+  {
+    "question": "A woman gave birth to a stillborn baby with numerous malformations. What protozoan disease could cause intrauterine death?",
+    "options": ["Leishmaniasis", "Toxoplasmosis", "Amebiasis", "Lambliasis", "Malaria"],
+    "answer": 1
+  },
+  {
+    "question": "Each of the following statements concerning Kala-azar is correct, except:",
+    "options": [
+      "Kala-azar is caused by Leishmania donovani",
+      "Kala-azar occurs primarily in rural Latin America",
+      "Kala-azar is transmitted by the bite of sandflies",
+      "Kala-azar can be diagnosed by finding amastigotes in bone marrow",
+      "Different serology tests are available for the lab diagnosis of Kala-azar."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Each of the following statements concerning malaria is correct, except:",
+    "options": [
+      "The female anopheles mosquito is the vector",
+      "Early infection, sporozoites enter hepatocytes",
+      "Release of merozoites from red blood cells causes fever and chills",
+      "The principal site of gametocyte formation is the human gastrointestinal tract.",
+      "Haemozoin released from Plasmodium infected ruptured RBCs is responsible for high fever and chills"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sabin-Feldman dye test is used in the diagnosis of:",
+    "options": ["Toxoplasmosis", "Amoebiasis", "Cryptosporidiosis", "Trypanosomiasis", "Malaria"],
+    "answer": 0
+  },
+  {
+    "question": "Congenitally transmitted parasitic infection is",
+    "options": ["Pneumocystis carinii", "Toxoplasma", "Amoebiasis", "Trichuris trichura", "Trichinella"],
+    "answer": 1
+  },
+  {
+    "question": "Protozoan transmitted sexually is",
+    "options": ["Trichomonas vaginalis", "Entamoeba histolytica", "Giardia lamblia", "Balantidium coli", "Malaria"],
+    "answer": 0
+  },
+  {
+    "question": "Congenital Toxoplasmosis manifest as",
+    "options": [
+      "Microcephaly",
+      "Micro-opthalmus",
+      "Hepatosplenomegaly",
+      "Cerebral calcifications",
+      "ALL of the above"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "In malaria, the form of plasmodia transmitted from mosquito to human is the",
+    "options": ["Sporozoite", "Gametocyte", "Merozoite", "Hypnozoite", "Plasmodium ovale"],
+    "answer": 0
+  },
+  {
+    "question": "A child from Bihar comes with fever. Blood examination shows sheathed microfilaria with nuclei up to tail tip. The diagnosis is",
+    "options": ["B. malayi", "W. bancrofti", "Loa loa", "Oncicerca volvulus", "E.coli"],
+    "answer": 0
+  },
+  {
+    "question": "A patient presents with lower gastrointestinal bleed. Sigmoidoscopy shows ulcer in the sigmoid. Biopsy from this area shows flask –shaped ulcers. Which of the following is the most appropriate treatment",
+    "options": [
+      "Intravenous ceftriaxone",
+      "Intravenous metronidazole",
+      "Intravenous steroids and sulphasalazine",
+      "Hydrocortisone enemas",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 35 year old male suffering from sudden onset of high grade fever. On malarial slide examination all stages of parasites are seen with schizonts of 20 microns size with 14-20 merozoites per cell and yellow brown pigment. The diagnosis is",
+    "options": [
+      "Plasmodium falciparum",
+      "Plasmodium ovale",
+      "Plasmodium malariae",
+      "Plasmodium vivax",
+      "Plasmodium knowlesi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following agent is used to prevent malaria",
+    "options": ["Mebendazole", "Chloroquine", "Inactivated vaccine", "Zinc table", "Folic acid"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following clinical signs is not normally present in babesia infections",
+    "options": ["Anaemia", "Lymphadenopathy", "Haemoglobinuria", "Jaundice", "Weakness, pain in the intestines"],
+    "answer": 2
+  },
+  {
+    "question": "Habitat of hookworm is",
+    "options": ["Jejunum", "Ileum", "Colon", "Duodenum", "Gall bladder"],
+    "answer": 0
+  },
+  {
+    "question": "Schistosoma Japonicum resides in",
+    "options": ["Vesical Plexus", "Splenic Vein", "Systemic Circulation", "Gall bladder", "Kidneys"],
+    "answer": 1
+  },
+  {
+    "question": "Definitive host for Guinea worm is",
+    "options": ["Man", "Cyclops", "Snail", "Cyclops and man", "Cow"],
+    "answer": 0
+  },
+  {
+    "question": "Hookworm enters to human body by",
+    "options": ["Ingestion", "Inhalation", "Penetration of skin", "Inoculation", "Bite of sandflies"],
+    "answer": 2
+  },
+  {
+    "question": "Cholangiocarcinoma is caused by",
+    "options": ["Fasciola infestation", "Clonorchis infestation", "Paragonimus infestation", "Ascaris infestation", "H.nana"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following disease is transmitted by egg ingestion :",
+    "options": ["Taeniasis", "Trichinosis", "Hydatidosis", "Strongyloidosis", "Leishmania donovani"],
+    "answer": 2
+  },
+  {
+    "question": "Calabar swelling is seen in infections with",
+    "options": ["Onchocerca volvulus", "Loa loa", "Burgia timori", "Wuchereria bancrofti", "Trichuris trichura"],
+    "answer": 1
+  },
+  {
+    "question": "All the following are True about Brugia malayi except",
+    "options": [
+      "The intermediate hosts in the India are Mansoni",
+      "The tail tip is free from nuclei",
+      "Nuclei are blurred, so counting is difficult",
+      "Adult worm is found in the lymphaitc system",
+      "Nematode"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the most common location of intracranial neurocysticerosis ?",
+    "options": ["Brain parenchyma", "Subarachnoid space", "Spinal cord", "Orbit", "The ventricles"],
+    "answer": 0
+  },
+  {
+    "question": "Which one of the following does not pass through the lungs",
+    "options": ["Hookworm", "Ascaris", "Strongyloidis", "Enterobius Vermicularis", "Plasmodium.malaria"],
+    "answer": 4
+  },
+  {
+    "question": "Each of the following statements concerning hookworm infection is correct, except:",
+    "options": [
+      "Hookworm infection can cause pneumonia",
+      "Hookworm infection is acquired by humans when filariform larvae penetrate the skin",
+      "Hookworm infection is caused by Necator americanus",
+      "Hookworm infection can be diagnosed by finding the trophozoite in the stool",
+      "Hookworm is one of the largest nematode"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "For diagnosis of river blindness",
+    "options": ["Blood examination", "Urine examination", "Faecal examination", "Skin examination", "All of above"],
+    "answer": 3
+  },
+  {
+    "question": "The main defense against parasitic diseases is",
+    "options": ["Vaccination", "Cleanliness", "Deworming", "Antibiotics", "Chemotherapy"],
+    "answer": 1
+  },
+  {
+    "question": "Ascaris are best observed in human specimens by which one of the",
+    "options": [
+      "Sigmoidoscopy and aspiration of mucosal lesions",
+      "Baermann technique",
+      "Dilution followed by egg count",
+      "Enzyme immunoassay (EIA)",
+      "Examination of a cellophane tape swab"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Analysis of a patient's stool reveals small structures resembling rice grains; microscopic examination shows these to be proglottids. The most likely organism in this patient's stool is",
+    "options": [
+      "Enterobius vermicularis",
+      "Ascaris lumbricoides",
+      "Necator americanus",
+      "T. saginata",
+      "Trichuris trichiura"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Highest incidence of anemia in the tropics is due to",
+    "options": ["Hookworm", "Threadworm", "Ascaris", "Guinea worm", "S. hematobium"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following resides in caecum",
+    "options": ["Trichuris trichuria", "A. lumbricoides", "Strongyloides", "Hookworm", "Leishmania donovani"],
+    "answer": 0
+  },
+  {
+    "question": "The cause of larva currents",
+    "options": ["Stronghyloides stercoralis", "Necator americansus", "Hookworm duodonale", "Hymenolepis nana", "F. hepatica"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is not a cestode?",
+    "options": ["D. latum", "T. saginata", "Schistosoma mansonia", "E. granulosus", "Hymenolepis nana"],
+    "answer": 2
+  },
+  {
+    "question": "Pigs or dogs are the sources of human infection by each of the following parasites, except:",
+    "options": [
+      "Echinococcus granulosus",
+      "Taenia solium",
+      "Trichinella spiralis",
+      "Ascaris lumbricoides",
+      "Echinococcus multilocularis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cause of epilepsy in upto 50% Indian patients is",
+    "options": ["Neurocysticercosis", "Cerebral malaria", "Toxoplasmosis", "Cerebral hydatid cyst", "Hymenolepis nana"],
+    "answer": 0
+  },
+  {
+    "question": "Second intermediate host to Diphyllobothrium latum is",
+    "options": ["Cyclops", "Man", "Snail", "Fresh water fish", "Flea"],
+    "answer": 3
+  },
+  {
+    "question": "Auto infection is seen with",
+    "options": ["Trichuris trichura", "Ankylostoma duodenale", "Ascaris", "Enterobius", "S. hematobium"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is viviparous",
+    "options": ["Strongyloidis stercoralis", "Trichinella spiralis", "Enterobious", "Ascaris", "E.coli"],
+    "answer": 1
+  },
+  {
+    "question": "Man is both intermediate and definitive host for",
+    "options": ["T. solium", "T. saginata", "D. latum", "Dicroftis hominis", "Ascaris"],
+    "answer": 0
+  },
+  {
+    "question": "All are true about brugia-malayi, except",
+    "options": [
+      "Nucelated tail tip",
+      "Enveloped sheath",
+      "Nocturnal periodicity",
+      "Smooth curved in stain preparation",
+      "Nematode"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Dracunculus medinensis is transmitted by",
+    "options": ["Cyclops", "House fly", "Tick", "Flea", "Air"],
+    "answer": 0
+  },
+  {
+    "question": "Cysticercus cellulose seen in",
+    "options": ["T.saginata", "T.solium", "D.latum", "S.haemato", "Schistosomiasis"],
+    "answer": 1
+  },
+  {
+    "question": "Patients with similar complaints applied to the doctor: weakness, pain in the intestines, disorder of GIT. Examination of the feces revealed that one patient with four nucleus cysts should be hospitalized immediately. For what protozoa are such cysts typical?",
+    "options": ["Lamblia", "Dysenteric amoeba", "Balantidium", "Trichomonas", "Intestinal amoeba"],
+    "answer": 1
+  },
+  {
+    "question": "A common manifesation of a large number of threadworm infestation is",
+    "options": ["Urticaria", "Rectal prolapse", "Severe abdominal pain", "Vaginitis", "Pneumonia"],
+    "answer": 2
+  }
+]
