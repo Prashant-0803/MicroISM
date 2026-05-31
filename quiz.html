@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Practice Quiz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <!-- Vercel Web Analytics -->
+  <script>
+    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+  </script>
+  <script defer src="/_vercel/insights/script.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2 id="quizTitle">Practice Quiz</h2>
+
+  <div id="questionBox"></div>
+  <div id="optionsBox"></div>
+
+  <div class="nav">
+    <button onclick="prevQ()">Back</button>
+    <button onclick="nextQ()">Next</button>
+  </div>
+
+  <div class="jump-center">
+    <input type="number" id="jumpInput" placeholder="Enter question number">
+    <button onclick="jumpQ()">Go</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
