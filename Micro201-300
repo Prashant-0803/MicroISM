@@ -1,0 +1,862 @@
+[
+  {
+    "question": "The class of immunoglobulin present in highest concentration in the blood of a human newborn is",
+    "options": ["IgG", "IgM", "IgA", "IgD", "IgE"],
+    "answer": 0
+  },
+  {
+    "question": "All are true about innate immunity except:",
+    "options": [
+      "Acts as first line of defense",
+      "Complements are examples",
+      "Non specific",
+      "Not effected by genetic influences",
+      "Non of these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Active immunity can be induced by:",
+    "options": ["Immunoglobulins", "Antigen exposure", "Antitoxin", "All of the above", "Non of these"],
+    "answer": 1
+  },
+  {
+    "question": "True about passive immunity:",
+    "options": [
+      "Cannot be given with active immunity",
+      "Last for 4-5 days only",
+      "It can be given before disease occurrence",
+      "Can be transferred by antibodies from another Host",
+      "Non of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Transfer factor is an example of:",
+    "options": [
+      "Artificial active immunity",
+      "Natural active immunity",
+      "Adoptive immunity",
+      "Artificial passive immunity",
+      "Non of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Antibodies against normal components of the body typically occur in autoimmune diseases. In which one of the following sets of two diseases do antibodies against DNA occur in one diseaese and antibodies against IgG occur in the other disease?",
+    "options": [
+      "Myasthenia gravis and systemic lupus erythematosus",
+      "Pernicious anemia and rhematic fever",
+      "Rheumatic fever and myasthenia gravis",
+      "Rheumatoid arthritis and pernicious anemia",
+      "Systemic lupus erythematoid arthritis"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "A newborn is evaluated for immunologic function. He has a distortion of the shape of his mouth, low-set and malformed ears, and widely spaced eyes. Radiographically, there is evidence of cardiac malformation and absence of a thymic shadow. Which of the following parameters would be normal in this child?",
+    "options": [
+      "Antibody-dependent cell-mediated cytotoxicity of parasite targets",
+      "Cellularity of splenic periarteriolar lymphoid sheaths",
+      "Cytotoxic killing of virus-infected targets",
+      "Generation of oxygen metabolites in phagocytic cells",
+      "Proliferative response to concanavalin A"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following immunodeficiencies is most likely to predispose to both pyogenic bacterial infections and viral infections in young child?",
+    "options": [
+      "Bruton's agammaglobulinemia",
+      "Chronic granulomatous disease",
+      "DiGeorge's syndrome",
+      "Job's syndrome",
+      "Severe combined immunodeficiency disease"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Which of the following cell types are responsible for initiating a secondary immune response?",
+    "options": ["Memory cells", "Macrophages", "Stem cells", "B cells", "T cells"],
+    "answer": 0
+  },
+  {
+    "question": "Regarding antibody-mediated immunity and cell-mediated immunity, which one of the following is the most accurate?",
+    "options": [
+      "Antibody-mediated immunity helps prevent graft rejection",
+      "Antibody-mediated immunity protects against anaphylactic shock",
+      "Antibody-mediated immunity protects against autoimmune diseases",
+      "Cell-mediated immunity neutralizes extracellular viruses",
+      "Cell-mediated immunity protects against fungal infections"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What are antigens?",
+    "options": [
+      "Proteins found in the blood that cause foreign blood cells to clump",
+      "Proteins embedded in B cell membranes",
+      "Proteins that consist of two light and two heavy polypeptide chains",
+      "Foreign molecules that trigger the generation of antibodies",
+      "Proteins released during an inflammatory response"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a flocculation test :",
+    "options": ["Widal test", "Weil-felix test", "VDRL", "Paul-Bunnell test", "Weil-Felix reaction"],
+    "answer": 2
+  },
+  {
+    "question": "Lab procedures that result in agglutination usually following reaction with antibodies and antigenic determinants on particles is",
+    "options": ["Bound Complement reaction", "Precipitation", "Agglutination", "Bacteriolysis", "Hemolysis"],
+    "answer": 2
+  },
+  {
+    "question": "Component of innate immunity:",
+    "options": ["T lymphocyte", "B lymphocyte", "Complements", "All of the above", "Non of these"],
+    "answer": 2
+  },
+  {
+    "question": "Superantigens are:",
+    "options": [
+      "Erythrotoxin of Staph. aureus",
+      "Cl. difficile toxin",
+      "Staphylococcal toxic shock syndrome toxin",
+      "Cholera toxin",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Coombs test is example of:",
+    "options": ["Coombs", "Agglutination", "Neutralization", "CFT", "Widal test"],
+    "answer": 1
+  },
+  {
+    "question": "After binding to its specific antigen, a B lymphocyte may switch its:",
+    "options": [
+      "Immunoglobulin light chain isotype",
+      "Immunoglobulin heavy chain class",
+      "Variable region of the immunoglobulin heavy chain",
+      "Constant region of the immunoglobulin light chain",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Complement fixation refers to:",
+    "options": [
+      "The ingestion of C3b-coated bacteria by macrophages",
+      "The destruction of complement in serum by heating at 56°C for 30 minutes",
+      "The binding of complement components by antigen-antibody complexes",
+      "The interaction of C3b with mast cells",
+      "All of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Complement lyses cells by:",
+    "options": [
+      "Enzymatic digestion of the cell membrane",
+      "Activation of adenylate cyclase",
+      "Insertion of complement proteins into the cell membrane",
+      "Inhibition of elongation factor-2",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Paul Bunnel test is example of:",
+    "options": ["Agglutination", "Precipitation", "Neutralization", "CFT", "Coombs"],
+    "answer": 0
+  },
+  {
+    "question": "Which one of the following laboratory tests would be the best to determine the number of CD4-positive cells in the blood of a patient infected with HIV?",
+    "options": [
+      "Agglutination",
+      "Complement fixation",
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "Flow cytometry",
+      "Immunoelectrophoresis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The blood from an 8-year-old boy was analyzed by flow cytometry. The cells were treated with fluorescent-labeled antibodies to various cell surface markers before they were evaluated by flow cytometry. Which of the following markers would identify the B lymphocytes in the sample?",
+    "options": ["CD3", "CD4", "CD8", "CD19", "CD56"],
+    "answer": 3
+  },
+  {
+    "question": "What type of antigen is used for precipitation?",
+    "options": ["Insoluble antigen", "Visible", "Invisible", "Soluble antigen", "None of these"],
+    "answer": 3
+  },
+  {
+    "question": "True regarding agglutination reaction are all except:",
+    "options": [
+      "It is less sensitive than precipitation reaction for detecting antibodies",
+      "Works on the same principle as that of precipitation reaction",
+      "It is the method used for cross matching and blood grouping",
+      "Agglutination occurs optimally when antigens and antibody react in equivalent proportions",
+      ""
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A 50-year-old woman with severe rheumatoid arthritis is started on infliximab (anti-tumor necrosis factor-alpha). This therapy has been shown to increase the production of CD25-positive T cell. Which of the followings is likely, therefore, to become elevated in this patient?",
+    "options": [
+      "Interferon-gamma",
+      "Interleukin-1",
+      "Interleukin-2",
+      "Interleukin-10",
+      "Transforming growth factor-beta"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A positive tuberculin skin test (a delayed hypersensitivity reaction) indicates that:",
+    "options": [
+      "A humoral immune response has occurred",
+      "A cell-mediated immune response has occurred",
+      "Both the T- and B-cell systems are functional",
+      "Only the B-cell system is functional",
+      "A and B"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "True about anaphylaxis:",
+    "options": [
+      "Type – I reaction",
+      "Large amount of histamine released",
+      "Cytokines like IL4 ,IL5 and GMCSF are released",
+      "Mediated through allergen specific IgE",
+      "All of these"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Tuberculin test is reaction of :",
+    "options": ["Anaphyxis mediated", "Cell mediated", "Antibody mediated", "Immuno complex mediated", "All of these"],
+    "answer": 2
+  },
+  {
+    "question": "Delayed tuberculin test response is due to :",
+    "options": ["B lymphocytes", "T lymphocytes", "Monocytes", "Histocytes", "Leukocytes"],
+    "answer": 1
+  },
+  {
+    "question": "The prototype of type -II hypersensitivity reaction is :",
+    "options": ["Arthus reaction", "SLE", "Auto immune hemolytic anemia", "Contact dermatitis", "Osteomyelitis"],
+    "answer": 2
+  },
+  {
+    "question": "Which category of hypersensitivity BEST describes hemolytic disease of the newborn caused by Rh incompatibility?",
+    "options": [
+      "Atopic or anaphylactic",
+      "Cytotoxic",
+      "Immune complex",
+      "Delayed",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The principal difference between cytotoxic (type II) and immune complex (type III) hypersensitivity is:",
+    "options": [
+      "The class (isotype) of antibody",
+      "Whether the antibody reacts with the antigen on the cell or reacts with antigen before it interacts with the cell",
+      "The participation of complement",
+      "The participation of T cells",
+      "None of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A child stung by a bee experiences respiratory distress within minutes and lapses into unconsciousness. This reaction is probably mediated by:",
+    "options": ["IgE antibody", "IgG antibody", "Sensitized T cells", "Complement", "IgM antibody"],
+    "answer": 0
+  },
+  {
+    "question": "Which Immunoglobulin is involved in anaphylaxis:",
+    "options": ["IgA", "IgE", "IgG", "IgM", "None of these"],
+    "answer": 1
+  },
+  {
+    "question": "Serum sickness is which type of hypersensitivity reaction:",
+    "options": ["Type I", "Type II", "Type III", "Type IV", "None of these"],
+    "answer": 2
+  },
+  {
+    "question": "IL-5 is released in whch hypersensitivity reaction:",
+    "options": ["Type I", "Type II", "Type III", "Type IV", "None of these"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is true about anaphylaxis:",
+    "options": [
+      "It is mediated by allergen specific IgG",
+      "Type-I hypersensitivity reaction",
+      "Cytokines like IL4, IL5 and IL6 along with histamine is released",
+      "All of the above",
+      "None of these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which is an example of type-III hypersenstivity :",
+    "options": ["Contact dermatitis", "Hemolytic anemia", "Serum sickness", "Good pasture", "Tonsillitis"],
+    "answer": 2
+  },
+  {
+    "question": "Delayed hypersensitivity involves :",
+    "options": ["Neutrophils", "Monocyts", "Eosinophils", "Lymphocytes", "Basophils"],
+    "answer": 3
+  },
+  {
+    "question": "Wheal and flare is which type of hypersensitivity reaction?",
+    "options": ["Type I", "Type II", "Type III", "Type IV", "Type V"],
+    "answer": 0
+  },
+  {
+    "question": "A patient with rheumatic fever develops a sore throat from which β-hemolytic streptococci are cultured. The patient is started on treatment with penicillin, and the sore throat resolves within several days. However, 7 days after initiation of penicillin therapy, the patient develops a fever of 103°F, a generalized rash, and proteinuria. This MOST probably resulted from:",
+    "options": [
+      "Recurrence of the rheumatic fever",
+      "A different infectious disease",
+      "An IgE response to penicillin",
+      "An IgG-IgM response to penicillin",
+      "A delayed hypersensitivity reaction to penicillin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Naturally acquired passive immunity would involve the",
+    "options": [
+      "Injection of vaccine",
+      "Ingestion of interferon",
+      "Placental transfer of antibodies",
+      "Absorption of pathogens through mucous membranes",
+      "Injection of antibodies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A city sanitation worker is struck by a car and his leg is crushed against his sanitation truck. The extreme trauma to the leg necessitates amputation above the knee. Although the patient's health records reflect a tetanus booster 6 years ago, the man is revaccinated and human, pooled antitetanus immunoglobulin is injected around the macerated tissue. Administration of immunoglobulin is an example of which of the following forms of immunization?",
+    "options": ["Adaptive", "Artificial active", "Artificial passive", "Natural active", "Natural passive"],
+    "answer": 2
+  },
+  {
+    "question": "Which clinical situation would be appropriate for treatment with a narrow-spectrum antimicrobial drug?",
+    "options": [
+      "Treatment of a polymicrobic mixed infection in the intestine",
+      "Prophylaxis against infection after a surgical procedure",
+      "Treatment of strep throat caused by culture identified Streptococcus pyogenes",
+      "",
+      "Empiric therapy of pneumonia while waiting for culture results"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "All residents of a Chicago nursing home are inoculated intramuscularly with an H3N2 influenza A preparation. The goal of this protocol is to stimulate which of the following types of immunity?",
+    "options": ["Adaptive", "Artificial active", "Artificial passive", "Natural active", "Natural passive"],
+    "answer": 1
+  },
+  {
+    "question": "A 10-year-old child was bitten by a stray dog. The child is started on a course of anti-rabies post-exposure prophylaxis, beginning with inoculation of pooled human antirabies immunoglobulin. What would repeated inoculation of this antirabies immunoglobulin preparation be likely to induce?",
+    "options": [
+      "Anti-allotype antibodies",
+      "Anti-epitope antibodies",
+      "Anti-idiotype antibodies",
+      "Anti-isotype antibodies",
+      "Anti-rabies antibodies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The main advantage of passive immunization over active immunization is that",
+    "options": [
+      "it can be administered orally",
+      "it provides antibody more rapidly",
+      "antibody persists for a longer period",
+      "it contains primarily IgM",
+      "Non of these"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A 25 years old boy having oropharyngeal infection for one week. He is taking penicillin's. Which statement about the bio disposition of penicillin's and cephlosporins is not accurate?",
+    "options": [
+      "Oral bioavailability is affected by liability in gastric acid",
+      "Most third generation cephlosporins cross the blood brain barrier",
+      "Nafcillin and ceftriaxone are eliminated by mainly via biliary secreation",
+      "ProcainepenicillinG is used via intra muscular injection",
+      "Renal tubular reabsorption of beta- Lactams is inhibited by probenecid"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "A young female having a urinary tract infection on urine C/S there is E. Colisensitive to cephalosporin. The primary mechanism of antibacterial action of cephlosporins involves",
+    "options": [
+      "Production of Beta- Lactamases",
+      "Inhibition of Cell membrane synthesis",
+      "Inhibition of Reaction involving transpeptidation",
+      "Decreasing Synthesis of N- acetyl muramic acid el Preventing Trans glycosylation",
+      "None of these"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An elderly male has a fever believed to be due to an infection. He has skin lesions scrapings of which reveal the presence of large number of gram positive cocci. The drug to use for the treatment of this patient is?",
+    "options": ["Amoxicillin", "Aztreonam", "Cefoxitin", "Nafcillin", "Penicillin G"],
+    "answer": 3
+  },
+  {
+    "question": "Which bacteria belong to the group of gram-positive?",
+    "options": [
+      "E. coli",
+      "Staphylococcus aureus",
+      "Pseudomonas aeruginosa",
+      "Salmonella enterica",
+      "Haemophilus influenzae"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which test is used to identify staphylococci?",
+    "options": ["Gram staining", "Coagulase test", "PCR", "Catalase", "Oxidase"],
+    "answer": 1
+  },
+  {
+    "question": "Which bacteria belong to the group of gram-negative?",
+    "options": [
+      "Staphylococcus aureus",
+      "Neisseria meningitidis",
+      "Streptococcus pyogenes",
+      "Chlamydia trachomatis",
+      "Enterococcus faecalis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which microorganism causes bacteremia?",
+    "options": [
+      "Treponema pallidum",
+      "Neisseria gonorrhoeae",
+      "Chlamydia trachomatis",
+      "Staphylococcus aureus",
+      "Escherichia coli"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which methods are used to determine the sensitivity of gram-positive bacteria to antibiotics?",
+    "options": [
+      "Gas chromatography",
+      "Latex agglutination",
+      "Antibiotic susceptibility test",
+      "Immunoelectrophoresis",
+      "Immunohistochemistry"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How is a culture performed to isolate streptococci from biological material?",
+    "options": ["Blood agar", "Sucrose agar", "MacConkey agar", "Chocolate agar", "Chapek Dox agar"],
+    "answer": 0
+  },
+  {
+    "question": "Which tests help determine the sensitivity of staphylococci to antibiotics?",
+    "options": ["ELISA", "PCR", "Antibiotic susceptibility test", "Immunofluorescence", "Western blot"],
+    "answer": 2
+  },
+  {
+    "question": "How is the diagnosis of gonococci conducted using the culture method?",
+    "options": ["MacConkey agar", "Blood agar", "Thayer-Martin agar", "Thioglycolate agar", "Thayer-Martin agar"],
+    "answer": 4
+  },
+  {
+    "question": "Which methods are used to diagnose meningococci in clinical samples?",
+    "options": ["Gram staining", "Immunofluorescence", "Latex agglutination", "PCR", "Western blot"],
+    "answer": 2
+  },
+  {
+    "question": "How is the differential diagnosis between gram-positive and gram-negative bacteria conducted in microscopic examination?",
+    "options": [
+      "Gas chromatography",
+      "Gram staining",
+      "Cultivation on thyrotrophin agar",
+      "Polymerase chain reaction (PCR)",
+      "Enzyme-linked immunosorbent assay (ELISA)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What factors can influence the effectiveness of vaccination against streptococci?",
+    "options": ["Antigenic drift", "Temperature conditions", "Genetic mutations", "Patient's age", "Immunocompromised state"],
+    "answer": 3
+  },
+  {
+    "question": "What factors affect the effectiveness of vaccination against chlamydia?",
+    "options": ["Virulence type", "Disease stage", "Genetic factors", "Immunocompetence", "Vaccination interval"],
+    "answer": 4
+  },
+  {
+    "question": "What factors can influence the results of molecular diagnostic methods for gram-positive bacteria?",
+    "options": ["Climatic conditions", "Presence of oxygen", "Genetic mutations", "Antibiotic use", "Microorganism invasiveness"],
+    "answer": 3
+  },
+  {
+    "question": "What factors can influence the effectiveness of vaccination against meningococci?",
+    "options": [
+      "Microorganism invasiveness",
+      "Climatic conditions",
+      "Presence of antibodies in the body",
+      "Genetic factors",
+      "Vaccination interval"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following streptococcal species is commonly associated with dental caries?",
+    "options": ["", "Streptococcus pyogenes", "Streptococcus pneumoniae", "Streptococcus mutans", "Streptococcus agalactiae"],
+    "answer": 3
+  },
+  {
+    "question": "What method is used for differentiating Gram-positive and Gram-negative bacteria?",
+    "options": [
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "Ziehl-Neelsen staining",
+      "Electron microscopy",
+      "Gram staining",
+      "Immunofluorescence"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What symptoms are characteristic of an infection caused by Vibrio cholera?",
+    "options": ["Enterobacteriaceae", "Severe cough", "Acute gastrointestinal disturbances", "Leprosy", "Pus-filled abscesses"],
+    "answer": 2
+  },
+  {
+    "question": "How is the microbiological diagnosis of tuberculosis conducted?",
+    "options": [
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "Culture methods and microscopy of smears",
+      "Serological tests",
+      "PCR (polymerase chain reaction)",
+      "Intradermal tests"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What symptoms typically manifest in an infection caused by Shigella?",
+    "options": [
+      "Long fever",
+      "Severe cough",
+      "Gastrointestinal disturbances, dysentery",
+      "High fever",
+      "Pus-filled abscesses"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which bacteria are associated with upper respiratory tract and throat infections?",
+    "options": [
+      "Shigella",
+      "E. coli and Campylobacters",
+      "Vibrio cholera and Shigella",
+      "Corynebacterium diphtheriae",
+      "Bordetella pertussis and Proteus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which microorganisms cause diphtheria?",
+    "options": [
+      "Vibrio cholera",
+      "Corynebacterium diphtheriae",
+      "Bordetella pertussis",
+      "Bacillus parapertussis",
+      "Actinomyces spp."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which bacteria belong to the Enterobacteriaceae family?",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Vibrio cholera and Shigella",
+      "E. coli, Salmonella typhi, S. paratyphi",
+      "Proteus and Campylobacters",
+      "Mycobacterium tuberculosis and Mycobacterium leprae"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What microorganism causes leprosy?",
+    "options": [
+      "Salmonella typhi",
+      "Mycobacterium tuberculosis",
+      "Mycobacterium leprae",
+      "Corynebacterium diphtheriae",
+      "Bacillus parapertussis"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which bacteria are associated with urinary tract infections?",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "E. coli and Salmonella typhi",
+      "Vibrio cholera and Campylobacters",
+      "Proteus and Mycobacterium tuberculosis",
+      "Corynebacterium diphtheriae and Bordetella pertussis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What microorganism causes cholera?",
+    "options": ["Leprosy", "Vibrio cholera", "Shigella", "E. coli", "Salmonella typhi"],
+    "answer": 1
+  },
+  {
+    "question": "Which microorganisms are considered anaerobic bacteria?",
+    "options": [
+      "Shigella",
+      "E. coli and Salmonella typhi",
+      "Clostridium perfringens and Clostridium botulinum",
+      "Vibrio cholera and Shigella",
+      "Mycobacterium tuberculosis and Mycobacterium leprae"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What is the main cause of gas gangrene development?",
+    "options": [
+      "Actinomyces spp.",
+      "Penetration of gas into tissues",
+      "Activity of Clostridium perfringens toxin",
+      "Action of Clostridium botulinum toxin",
+      "Bacterial invasion of Mycobacterium leprae"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the mechanism of action of the toxin causing gas gangrene?",
+    "options": ["Endotoxin", "Neurotoxin", "Enterotoxin", "Cytotoxin", "Exotoxin"],
+    "answer": 3
+  },
+  {
+    "question": "Which microorganism causes botulism?",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Clostridium perfringens",
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Mycobacterium leprae"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The single most common cause of pyrexia of unknown origin is:",
+    "options": ["Mycobacterium tuberculosis", "Salmonella Typhi", "Brucella sp", "Salmonella paratyphi A", "E.coli"],
+    "answer": 0
+  },
+  {
+    "question": "What symptoms are characteristic of gas gangrene?",
+    "options": [
+      "Cytotoxin, destroying cells",
+      "Muscle spasms",
+      "Swelling and gas bubbles in tissues",
+      "Gastrointestinal disorders",
+      "High temperature"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How is Clostridium tetani infection acquired?",
+    "options": [
+      "Infected water",
+      "Through food",
+      "Through mosquito bites",
+      "Through wounds or cuts",
+      "With contaminated water"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A veterinary doctor had pyrexia of unknown origin. His blood culture in special laboratory media was positive for gram-negative short bacilli which was oxidase positive. Which one of the following is the likely organism grown in culture?",
+    "options": ["Pasteurella spp", "Francisella spp", "Bartonella spp", "Brucella spp", "Streptococcus spp"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is an antimicrobial susceptibility testing?",
+    "options": ["Kirby Bauer method", "ATCC", "NCTC", "Stokes method", "B&C"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following don't have a non-human reservoir?",
+    "options": ["Salmonella typhi", "N.gonorrhoea", "E.coli", "Clostridium tetani", "smallpox virus"],
+    "answer": 0
+  },
+  {
+    "question": "Which microorganism causes gas gangrene?",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Clostridium perfringens",
+      "Mycobacterium tuberculosis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What factors contribute to the development of infection caused by Clostridium perfringens?",
+    "options": [
+      "Food",
+      "Animal bites",
+      "Contaminated water",
+      "Wounds with soil contamination",
+      "Air penetration into tissues"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How does tetanus manifest?",
+    "options": [
+      "Respiratory illnes",
+      "Acute gastrointestinal disorders",
+      "Gastric ulcers",
+      "Muscle spasms and jaw muscles",
+      "Skin rashes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which products are most commonly associated with the occurrence of botulism?",
+    "options": [
+      "Water",
+      "Raw meat",
+      "Dairy products",
+      "Canned vegetables and pickles",
+      "Fruits and nuts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What method is used to treat botulism?",
+    "options": [
+      "Lymphadenopathy, fever",
+      "Antibiotic administration",
+      "Vaccination",
+      "Immunotherapy",
+      "Administration of antitoxin"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Which diagnostic method is used for the laboratory diagnosis of Clostridium tetani?",
+    "options": [
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "Culturing on aerobic media",
+      "Serological tests",
+      "Microscopy of smears",
+      "PCR (polymerase chain reaction)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What forms of plague exist?",
+    "options": [
+      "Meningitis",
+      "Bubonic, septicemic, pulmonary",
+      "Gas, ulcerative, toxic",
+      "Abscess, diphtheria, laryngeal",
+      "Meningitis, arthritis, encephalitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is brucellosis transmitted to humans?",
+    "options": [
+      "Lymphadenopathy, fever",
+      "Mosquito bites",
+      "Through contaminated water",
+      "Consumption of undercooked meat and milk from infected animals",
+      "Airborne transmission"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How is anthrax transmitted to humans?",
+    "options": [
+      "Parenteral route",
+      "Airborne transmission",
+      "Through contaminated water",
+      "Consumption of contaminated food",
+      "Mosquito bites"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How is tularemia transmitted to humans?",
+    "options": [
+      "Through blood",
+      "Airborne transmission",
+      "Through contaminated surfaces",
+      "Consumption of contaminated products",
+      "Tick bites"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What signs help differentiate botulism from other neurological diseases?",
+    "options": [
+      "Causes inflammation of nerves",
+      "Blood laboratory analyses",
+      "Changes in muscle condition and reflexes",
+      "Electromyography",
+      "Computerized tomography of the brain"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which organs and tissues are usually involved in tularemia?",
+    "options": ["UGS", "Heart and blood vessels", "Lungs and lymph nodes", "Liver and kidneys", "Gastrointestinal tract"],
+    "answer": 2
+  },
+  {
+    "question": "What symptoms are characteristic of tularemia?",
+    "options": [
+      "Edema and gas bubbles",
+      "High temperature, skin ulcers",
+      "Gastrointestinal disorders, diarrhea",
+      "Edema and gas bubbles in tissues",
+      "Lymphadenopathy, fever, flu-like symptoms"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What symptoms are characteristic of listeriosis?",
+    "options": [
+      "Haemorrhage",
+      "Muscle weakness, paralysis",
+      "Gastrointestinal disorders, diarrhea",
+      "Lymphadenopathy, fever",
+      "Flu-like symptoms, meningitis"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What symptoms are characteristic of anthrax?",
+    "options": [
+      "Leg pain",
+      "Lymphadenopathy, fever",
+      "Increased temperature, skin ulcers, flu-like symptoms",
+      "Muscle weakness, paralysis",
+      "Headache, vomiting, diarrhea"
+    ],
+    "answer": 2
+  }
+]
